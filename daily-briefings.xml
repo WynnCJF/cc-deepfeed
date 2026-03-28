@@ -4,7 +4,7 @@
     <title>Wynn's Daily Briefings</title>
     <description>Daily briefings on AI, world news, music, and NYC life</description>
     <link>https://WynnCJF.github.io/cc-deepfeed/daily-briefings.xml</link>
-    <lastBuildDate>Sat, 28 Mar 2026 20:53:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 21:06:39 +0000</lastBuildDate>
     <generator>cc-deepfeed</generator>
     <ns0:link rel="hub" href="https://pubsubhubbub.appspot.com" />
     <ns0:link rel="self" href="https://WynnCJF.github.io/cc-deepfeed/daily-briefings.xml" type="application/rss+xml" />
@@ -84,6 +84,434 @@
       <category>music-pulse</category>
       <link>https://en.wikipedia.org/wiki/The_Mayhem_Ball</link>
       <enclosure url="https://platform-assets.msg.com/event-engine/260320_MSG_LadyGaga_EDP_VLP_1024x576_1757613831452.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The Iran War at One Month: Houthis Open a Second Front</title>
+      <description>&lt;p&gt;Yemen's Houthi rebels launched a ballistic missile toward southern Israel today — their first strike of the Iran war — widening a conflict that has already killed more than 3,000 people in its first month and drawn in military forces from three continents.&lt;/p&gt;
+
+&lt;p&gt;The Houthis' military spokesman Yahya Saree announced the attack on X as "the first military operation using a barrage of ballistic missiles targeting sensitive Israeli military sites." Israel's IDF said air defenses intercepted the projectile, triggering sirens across Beersheba. No casualties were reported from this particular strike.&lt;/p&gt;
+
+&lt;p&gt;But the significance is less about the missile than about what it represents: for the first time since the US and Israel launched strikes against Iran on February 28, a third party has formally entered the war on Iran's side. The Houthis, who spent the better part of 2024 disrupting Red Sea shipping with drone attacks on commercial vessels, are now targeting Israel directly in what they frame as solidarity with Iran.&lt;/p&gt;
+
+&lt;h2&gt;The Month in Numbers&lt;/h2&gt;
+
+&lt;p&gt;The war's first month has been brutal. Iran's Red Crescent reports at least 1,900 people killed in attacks on Iran since February 28 — a figure that almost certainly understates civilian casualties given restricted media access. In Lebanon, where Israeli strikes have targeted what the IDF calls Hezbollah infrastructure, 1,189 people have been killed since March 2, including at least 124 children. Lebanon's health ministry also reports 51 health workers killed in March alone, with more than 120 wounded.&lt;/p&gt;
+
+&lt;p&gt;US forces haven't been unscathed. More than two dozen American troops have been wounded in Iranian attacks on Prince Sultan Air Base in Saudi Arabia in the past week. Friday's attack alone — six ballistic missiles and 29 drones — injured at least 15 troops, five of them seriously. None have been killed, but the operational tempo is exactly what military planners warned would define this war: a grinding, asymmetric attrition campaign rather than a clean, decisive exchange.&lt;/p&gt;
+
+&lt;h2&gt;Why the Houthis Matter&lt;/h2&gt;
+
+&lt;p&gt;The Houthi entry changes the geometry of the conflict in two important ways. First, it forces Israel to maintain active air defenses against a threat from the southeast, even as it continues operations in Lebanon to the north. Second, and more consequentially for the global economy, it raises the prospect that the Houthis could escalate to targeting the Bab el-Mandeb Strait — the southern chokepoint through which ships must pass to reach the Red Sea and the Suez Canal.&lt;/p&gt;
+
+&lt;p&gt;Iran has already effectively closed the Strait of Hormuz to the north, sending oil prices to  a barrel. If the Houthis close Bab el-Mandeb simultaneously, every major shipping lane connecting the Persian Gulf to Europe and Asia would be disrupted at once. Analysts at CNBC describe that scenario as a "perfect storm" for global trade — one that would add weeks and hundreds of millions of dollars in costs to virtually every goods shipment between Asia and Europe.&lt;/p&gt;
+
+&lt;h2&gt;The Diplomatic Void&lt;/h2&gt;
+
+&lt;p&gt;One month in, there is no credible ceasefire framework in sight. Iran's new Supreme Leader Mojtaba Khamenei — who took over from his father Ali Khamenei in late 2025 — has publicly committed to maintaining strikes on US bases across the region and blocking Hormuz for as long as US forces are engaged. The Trump administration, for its part, has not publicly articulated a defined end-state for the conflict beyond the stated goal of eliminating Iran's nuclear program.&lt;/p&gt;
+
+&lt;p&gt;The next critical date is April 7, when the UN Security Council is scheduled to hold an emergency session on the conflict. Russia and China are expected to push for a ceasefire resolution; the US has signaled it will veto. Watch also for whether additional regional actors — particularly Hezbollah in Lebanon, which has so far fought defensively — make a formal declaration of belligerence.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://www.cnn.com/2026/03/28/world/live-news/iran-war-us-israel-trump"&gt;https://www.cnn.com/2026/03/28/world/live-news/iran-war-us-israel-trump&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.cnbc.com/2026/03/28/yemens-houthis-launch-israel-strike-the-first-of-the-iran-war.html"&gt;https://www.cnbc.com/2026/03/28/yemens-houthis-launch-israel-strike-the-first-of-the-iran-war.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.npr.org/2026/03/28/nx-s1-5764720/iran-war-one-month"&gt;https://www.npr.org/2026/03/28/nx-s1-5764720/iran-war-one-month&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Iran_war"&gt;https://en.wikipedia.org/wiki/2026_Iran_war&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">0fa356bb-f960-5fe2-b341-7aca5dc14b32</guid>
+      <pubDate>Sat, 28 Mar 2026 21:02:16 +0000</pubDate>
+      <category>world-news</category>
+      <link>https://www.cnn.com/2026/03/28/world/live-news/iran-war-us-israel-trump</link>
+    </item>
+    <item>
+      <title>The Strait of Hormuz Crisis: Oil Hits  and the World Has Until Mid-April</title>
+      <description>&lt;p&gt;If the Iran war doesn't end soon, the global economy faces a supply shock of a scale not seen since the 1970s. The Strait of Hormuz — the narrow waterway through which nearly 20 percent of the world's oil flows — has been effectively closed by Iran since March 4, and oil executives are warning that mid-April is the point of no return.&lt;/p&gt;
+
+&lt;p&gt;Brent crude crossed  a barrel on March 8 for the first time in four years and peaked at . Dubai crude, the key benchmark for Asia-Pacific buyers, hit .80 a barrel — an all-time record. In percentage terms, oil has risen roughly 40 percent since the conflict began on February 28.&lt;/p&gt;
+
+&lt;h2&gt;How the Blockade Works&lt;/h2&gt;
+
+&lt;p&gt;Iran hasn't physically sealed the Strait with a chain — it's using a more surgical approach. Iranian Revolutionary Guard Corps vessels have been boarding and threatening tankers attempting to transit, while missile batteries onshore provide a credible threat of sinking any ship that pushes through. Tehran has framed it as a "toll booth": allied or neutral countries can negotiate passage; adversaries and their suppliers cannot.&lt;/p&gt;
+
+&lt;p&gt;In practice, most insurers have declared the Strait a war zone and pulled coverage, which has effectively halted commercial traffic regardless of flags flown. The world has lost an estimated 4.5 to 5 million barrels a day of supply — roughly 5 percent of global output. That number is expected to double by mid-April as storage reserves in Asian and European countries are drawn down.&lt;/p&gt;
+
+&lt;h2&gt;Who Gets Hurt Most&lt;/h2&gt;
+
+&lt;p&gt;The short answer: Asia. About 80 percent of Persian Gulf oil exports flow east — to Japan, South Korea, India, and China. Japan imports roughly 90 percent of its oil from the Gulf. South Korea about 70 percent. These countries are scrambling to reroute through alternative suppliers (the US, Norway, West Africa) but there isn't enough spare capacity to fill a 10-million-barrel-a-day gap at any price.&lt;/p&gt;
+
+&lt;p&gt;The Dallas Fed estimates that a sustained Hormuz closure through Q2 2026 would lower global real GDP growth by 2.9 annualized percentage points — a significant hit, though not a recession in itself if the closure ends quickly. The risk is that it doesn't.&lt;/p&gt;
+
+&lt;p&gt;For US consumers, the effect is already visible at the pump. National average gasoline prices crossed .50 a gallon this week. The Federal Reserve faces an almost impossible choice: raise rates to fight oil-driven inflation, or hold steady to avoid tipping an already-slowing economy into contraction. Fed Governor Waller signaled in late February that the Fed would "look through" a temporary supply shock, but economists note that the Hormuz crisis is no longer looking temporary.&lt;/p&gt;
+
+&lt;h2&gt;The Mid-April Deadline&lt;/h2&gt;
+
+&lt;p&gt;Multiple oil executives and supply chain analysts have converged on mid-April as the inflection point. By then, most strategic petroleum reserves in importing countries will have been drawn down to operational minimums. Japan has already tapped its national reserve. The IEA has coordinated a release from member countries' strategic reserves, but at current depletion rates, that buffer buys about three weeks.&lt;/p&gt;
+
+&lt;p&gt;After mid-April, the choice for oil-importing economies becomes stark: pay whatever price Iran demands for passage, find alternative supply at enormous premium, or accept rolling industrial shutdowns. South Korea's auto and semiconductor industries are reportedly already rationing energy.&lt;/p&gt;
+
+&lt;p&gt;The next concrete decision point is April 15, when a US-brokered coalition meeting in Bahrain is scheduled to discuss "freedom of navigation" options — a diplomatic euphemism for potential naval escort operations. Whether that meeting produces action or more delay will be a defining moment for the war's trajectory.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"&gt;https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.cnbc.com/2026/03/28/oil-gas-prices-iran-war-hormuz.html"&gt;https://www.cnbc.com/2026/03/28/oil-gas-prices-iran-war-hormuz.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.dallasfed.org/research/economics/2026/0320"&gt;https://www.dallasfed.org/research/economics/2026/0320&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://intellectia.ai/blog/2026-strait-of-hormuz-crisis-oil-price-surge"&gt;https://intellectia.ai/blog/2026-strait-of-hormuz-crisis-oil-price-surge&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">2ccb1467-7104-5076-bf3d-459e0b5fcc41</guid>
+      <pubDate>Sat, 28 Mar 2026 21:02:43 +0000</pubDate>
+      <category>world-news</category>
+      <link>https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis</link>
+      <enclosure url="https://upload.wikimedia.org/wikipedia/commons/c/cf/Stra%C3%9Fe_von_Hormuz.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Japan Fes Kicks Off Its 10th Anniversary Season in the East Village This Weekend</title>
+      <description>&lt;p&gt;The world's largest Japanese street food festival returns to New York this Saturday, March 28, launching its 2026 season — and its 10th anniversary — at Astor Place and Lafayette Street in the East Village. A second event follows on Sunday, March 29, at Bryant Park (40th St between 5th and 6th Ave). Both days run 10 a.m. to 6 p.m., and admission is free.&lt;/p&gt;
+
+&lt;p&gt;If you've been to Japan Fes before, you know the drill: long rows of vendors selling takoyaki, yakisoba, yakitori, onigiri, ramen, and matcha everything, plus Japanese snacks, crafts, and cultural booths. Lines are longest for &lt;strong&gt;KARLSBALLS takoyaki&lt;/strong&gt; and the ramen stalls, so arrive early if those are your priority. Sweet options like matcha shaved ice and bubble tea round out the lineup.&lt;/p&gt;
+
+&lt;p&gt;This year's season is the biggest yet — organizers have more than 30 events scheduled across NYC through the rest of 2026, and the festival has expanded internationally to Paris, Miami, and Austin. A digital stamp card rewards repeat visitors with prizes at 5, 10, 20, and 30 stamps, which is a nice incentive to keep showing up throughout the season.&lt;/p&gt;
+
+&lt;p&gt;The East Village location feels right for the opener. The stretch around Astor Place fills up fast on nice weekends anyway, and the festival transforms it into something closer to a Tokyo street market. Get there before noon if you want to eat without a 30-minute wait. Bryant Park on Sunday tends to be slightly less chaotic if you'd rather ease into it.&lt;/p&gt;
+
+&lt;p&gt;Sources: &lt;a href="https://www.japanculture-nyc.com/blog/japan-fes-begins-2026-season-this-weekend"&gt;JapanCultureNYC&lt;/a&gt;, &lt;a href="https://www.timeout.com/newyork/news/this-massive-japanese-street-food-festival-is-almost-back-031226"&gt;Time Out New York&lt;/a&gt;, &lt;a href="https://www.japanfes.com/new-blog/2026/mar-28-east-village"&gt;Japan Fes&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://www.japanculture-nyc.com/blog/japan-fes-begins-2026-season-this-weekend"&gt;https://www.japanculture-nyc.com/blog/japan-fes-begins-2026-season-this-weekend&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.timeout.com/newyork/news/this-massive-japanese-street-food-festival-is-almost-back-031226"&gt;https://www.timeout.com/newyork/news/this-massive-japanese-street-food-festival-is-almost-back-031226&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.japanfes.com/new-blog/2026/mar-28-east-village"&gt;https://www.japanfes.com/new-blog/2026/mar-28-east-village&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">f836cc61-011c-543f-b80d-802fe0b5dcfd</guid>
+      <pubDate>Sat, 28 Mar 2026 21:05:09 +0000</pubDate>
+      <category>nyc-local</category>
+      <link>https://www.japanculture-nyc.com/blog/japan-fes-begins-2026-season-this-weekend</link>
+      <enclosure url="http://static1.squarespace.com/static/6369598a46732063b3f0eca0/t/69c6d107b6f8f134b0133b9b/1774637319561/JAPAN+Fes+18.jpg?format=1500w" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Ukraine Launches Surprise Southern Offensive, Threatening Russia's Spring Campaign</title>
+      <description>&lt;p&gt;Ukraine's army has seized the initiative along the southern front between Zaporizhzhya and Dnipropetrovsk oblasts in a counteroffensive that caught Russian planners off guard — and may have already broken the Kremlin's spring-summer campaign before it began.&lt;/p&gt;
+
+&lt;p&gt;For the first time since the 2024 Kursk incursion, Ukraine has reclaimed more territory in a single month than Russia captured in the same period. The breakthrough is forcing Moscow to pull elite VDV airborne and naval infantry units away from the Donetsk fortress belt — the very troops earmarked for the big spring push — and redeploy them south to plug the gap.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; Russia's entire 2026 offensive was built around a methodical grind through Ukraine's so-called fortress belt cities — Kramatorsk and Kostyantynivka — using accumulated reserve formations. If those reserves are being burned fighting fires in the south, the Donetsk offensive loses its punch before it starts. Ukrainian analysts say Russia's Dnepr group has effectively halted its own advance near Orikhiv as commanders scramble to respond.&lt;/p&gt;
+
+&lt;p&gt;The southern push also carries a broader message. Ukraine chose to strike where Russia wasn't expecting it, rather than absorbing punches along the most heavily fortified lines. That's the same logic behind the 2024 Kursk operation, which forced Russia to divert troops from elsewhere — but this time it's on Ukrainian soil, with fewer diplomatic complications and a shorter supply chain advantage for Kyiv.&lt;/p&gt;
+
+&lt;p&gt;Saturday's figures from Ukraine's military give a sense of the tempo: 181 combat engagements recorded on March 27 alone, with Russia reporting 1,300 personnel lost that day. Meanwhile, Ukrainian drones struck an oil refinery in Yaroslavl, deep in central Russia — a signal that Kyiv is still pressing its long-range campaign even as the ground war heats up.&lt;/p&gt;
+
+&lt;p&gt;The UK announced a fresh  million tranche of air defense support, with Prime Minister Keir Starmer pledging no let-up in British backing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What to watch:&lt;/strong&gt; The critical question is whether Russia can stabilize the south in the next two to three weeks without gutting its Donetsk offensive capacity. If Ukraine can hold its gains through April, the spring-summer campaign Russia has been telegraphing for months may arrive significantly degraded. Watch for any Russian announcement of fresh mobilization waves — that would be the clearest sign that reserve pools are running thinner than Moscow expected.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://english.nv.ua/nation/ukraine-counteroffensive-in-south-disrupts-russia-s-2026-campaign-nv-analysis-50591722.html"&gt;https://english.nv.ua/nation/ukraine-counteroffensive-in-south-disrupts-russia-s-2026-campaign-nv-analysis-50591722.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.cnn.com/2026/03/24/europe/russia-ukraine-rare-daytime-drone-attack-intl"&gt;https://www.cnn.com/2026/03/24/europe/russia-ukraine-rare-daytime-drone-attack-intl&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://newsukraine.rbc.ua/news/ukrainian-counterattacks-in-south-could-disrupt-1773129954.html"&gt;https://newsukraine.rbc.ua/news/ukrainian-counterattacks-in-south-could-disrupt-1773129954.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">08fea57b-1c3c-51f2-a1ce-b71fe6dec6a3</guid>
+      <pubDate>Sat, 28 Mar 2026 21:05:15 +0000</pubDate>
+      <category>world-news</category>
+      <link>https://english.nv.ua/nation/ukraine-counteroffensive-in-south-disrupts-russia-s-2026-campaign-nv-analysis-50591722.html</link>
+      <enclosure url="https://static.nv.ua/shared/system/Article/posters/003/256/045/original/72065120fae4ddb5be7a0f5ef6c58994.jpg?q=85&amp;amp;stamp=20260314113809&amp;amp;f=webp" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Ugly Baby Is Back: NYC's Spiciest Thai Restaurant Reopens on Grand Street in Williamsburg</title>
+      <description>&lt;p&gt;Chef Sirichai Sreparplarn's &lt;strong&gt;Ugly Baby&lt;/strong&gt; — the Thai restaurant that earned a cult following in Carroll Gardens for dishes so aggressively spicy they made diners sweat on their neighbors — has reopened at 364 Grand Street in Williamsburg. The new space is roughly 2,500 square feet, a significant upgrade from the cramped original, which means you can finally suffer through a plate of southern Thai curry without your elbow in a stranger's ribs.&lt;/p&gt;
+
+&lt;p&gt;The Carroll Gardens location on Smith Street closed in late 2024 (the space is now Hungry Thirsty), and for a while it wasn't clear if Ugly Baby would come back at all. But Sreparplarn signed a new lease in Williamsburg and spent over a year building out the space. The Infatuation's Bryan Kim called the return one of the most significant restaurant reopenings in the city, describing Ugly Baby as "one of the city's best Thai spots" and "one of the best restaurants, period."&lt;/p&gt;
+
+&lt;p&gt;The menu has evolved. Sreparplarn promised a more adventurous approach this time around, with what he described as "wild use of bizarre umami factors" — fermented ingredients, unusual dried spices drawn from Chinese and Indian pantries alongside Thai staples like lemongrass, galangal, chili, and makrut lime. If you found the original menu intense, this version apparently pushes further.&lt;/p&gt;
+
+&lt;p&gt;Grand Street in Williamsburg puts Ugly Baby in a busy dining corridor that includes everything from pizza spots to wine bars. It's a different neighborhood energy than the quieter Carroll Gardens stretch, but the larger footprint should help manage the walk-in crowds that were a fixture at the old location. No reservations system has been announced — showing up and waiting remains the move.&lt;/p&gt;
+
+&lt;p&gt;Sources: &lt;a href="https://www.theinfatuation.com/new-york/reviews/ugly-baby-williamsburg"&gt;The Infatuation&lt;/a&gt;, &lt;a href="https://www.timeout.com/newyork/news/beloved-thai-restaurant-ugly-baby-is-coming-back-120225"&gt;Time Out New York&lt;/a&gt;, &lt;a href="https://www.bkmag.com/2025/12/02/ugly-baby-reopening-williamsburg/"&gt;Brooklyn Magazine&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://www.theinfatuation.com/new-york/reviews/ugly-baby-williamsburg"&gt;https://www.theinfatuation.com/new-york/reviews/ugly-baby-williamsburg&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.timeout.com/newyork/news/beloved-thai-restaurant-ugly-baby-is-coming-back-120225"&gt;https://www.timeout.com/newyork/news/beloved-thai-restaurant-ugly-baby-is-coming-back-120225&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.bkmag.com/2025/12/02/ugly-baby-reopening-williamsburg/"&gt;https://www.bkmag.com/2025/12/02/ugly-baby-reopening-williamsburg/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">323a825a-b530-518f-bd37-627b3c47542f</guid>
+      <pubDate>Sat, 28 Mar 2026 21:05:25 +0000</pubDate>
+      <category>nyc-local</category>
+      <link>https://www.theinfatuation.com/new-york/reviews/ugly-baby-williamsburg</link>
+      <enclosure url="https://res.cloudinary.com/the-infatuation/image/upload/c_scale,w_1200,q_auto,f_auto/images/TeddyWolff.UglyBaby.laabpedudon_pfpexy" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>US Tariffs in Legal Limbo: What Comes After the Supreme Court Struck Down Emergency Powers</title>
+      <description>&lt;p&gt;The Trump administration's global tariff regime is operating in a legal gray zone after the Supreme Court ruled in February that the International Emergency Economic Powers Act does not give the president authority to impose tariffs — a decision that wiped out the legal basis for most of the tariffs the administration had levied since 2025.&lt;/p&gt;
+
+&lt;p&gt;The administration's response was swift and creative. Within days of the ruling in &lt;em&gt;Learning Resources, Inc. v. Trump&lt;/em&gt;, the White House pivoted to Section 122 of the Trade Act of 1974, a rarely-used authority allowing a president to impose an emergency import surcharge of up to 15% for 150 days to address a balance-of-payments crisis. Trump issued a 10% global tariff under that authority on February 24, and Treasury Secretary Scott Bessent said this week that the rate would likely rise to 15% imminently.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; Section 122 has a built-in expiration clock — 150 days, which runs out in mid-July — and a 15% ceiling, lower than many of the IEEPA tariffs it replaced. The administration is treating it as a bridge while it builds longer-term replacements. The U.S. Trade Representative has opened Section 301 investigations into roughly 60 economies for unfair trade practices, and Section 232 national security tariffs are being readied as a parallel track. Both are more legally durable, but slower to finalize.&lt;/p&gt;
+
+&lt;p&gt;Twenty-four states filed a lawsuit in the Court of International Trade on March 5 to block even the Section 122 tariffs, arguing the balance-of-payments rationale is pretextual. That case is still pending.&lt;/p&gt;
+
+&lt;p&gt;The economic impact has been significant regardless of which legal vehicle is used. The Tax Foundation estimates the cumulative tariff burden is now the largest U.S. tax increase as a share of GDP since 1993, amounting to roughly ,500 per household in 2026. Markets have been volatile, and trading partners — particularly in Europe and Asia — are watching the Section 301 investigations nervously, since those could eventually trigger tariffs far higher than the current 15% ceiling.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What to watch:&lt;/strong&gt; Bessent's timeline for moving to 15% Section 122 tariffs could come this coming week. More significantly, the first Section 301 findings are expected before summer; those will determine whether the trade tensions metastasize into a broader multi-front trade war or remain at current levels. The Court of International Trade case could also produce an injunction, creating yet another legal disruption.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/"&gt;https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-imposes-a-temporary-import-duty-to-address-fundamental-international-payment-problems/"&gt;https://www.whitehouse.gov/fact-sheets/2026/02/fact-sheet-president-donald-j-trump-imposes-a-temporary-import-duty-to-address-fundamental-international-payment-problems/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.vornews.com/politics/trump-tariffs-supreme-court/"&gt;https://www.vornews.com/politics/trump-tariffs-supreme-court/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">64c88dd7-8a22-5341-b407-c7d3d5a4acab</guid>
+      <pubDate>Sat, 28 Mar 2026 21:05:34 +0000</pubDate>
+      <category>world-news</category>
+      <link>https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/</link>
+    </item>
+    <item>
+      <title>MIT's TLT Method Doubles LLM Training Speed by Harvesting Idle GPU Time</title>
+      <description>&lt;p&gt;Training reasoning models with reinforcement learning is brutally wasteful. The rollout phase — where the model generates multiple candidate answers for verification — eats up to 85% of total training time. Worse, because some queries take far longer than others, fast-finishing processors sit idle while a handful grind through the hard cases. A team at MIT led by postdoc Qinghao Hu and graduate student Shang Yang has built a system called &lt;strong&gt;Taming the Long Tail (TLT)&lt;/strong&gt; that reclaims this wasted compute and turns it into a training accelerator.&lt;/p&gt;
+
+&lt;p&gt;The core idea is elegant: use speculative decoding — a technique normally applied at inference time — during RL training. A smaller "drafter" model learns to predict the larger target model's outputs, and the target model only needs to verify those predictions rather than generate from scratch. What makes TLT clever is how it handles the two hardest parts of making this work in practice.&lt;/p&gt;
+
+&lt;p&gt;First, the &lt;strong&gt;adaptive drafter trainer&lt;/strong&gt; solves the synchronization problem. As soon as processors finish their assigned queries and go idle, TLT immediately reassigns them to train the drafter model. This keeps the drafter tightly aligned with the evolving target model without consuming any additional compute — it's purely recycling time that would otherwise be wasted. As Hu puts it: "As soon as some processors finish their short queries and become idle, we immediately switch them to do draft model training."&lt;/p&gt;
+
+&lt;p&gt;Second, the &lt;strong&gt;adaptive rollout engine&lt;/strong&gt; dynamically selects the best speculative decoding strategy for each batch of inputs. It monitors the acceptance and rejection rates of drafted tokens and adjusts configuration on the fly, rather than using a fixed strategy that might be optimal for some inputs but terrible for others.&lt;/p&gt;
+
+&lt;p&gt;The results are substantial: across multiple reasoning LLMs, TLT delivered 70-210% training acceleration while preserving model accuracy. A nice bonus is that the drafter model, trained as a byproduct of the process, can also be used for faster inference deployment — so you get two models for the price of one training run.&lt;/p&gt;
+
+&lt;p&gt;This work matters because RL-based training (the approach behind models like DeepSeek-R1 and OpenAI's o-series) is increasingly the path to stronger reasoning capabilities, but the compute costs are eye-watering. A 2x speedup at no accuracy cost directly translates to either halving the training bill or training twice as many experiments in the same budget. The collaboration involves researchers from NVIDIA, ETH Zurich, MIT-IBM Watson AI Lab, and UMass Amherst, with funding from MIT-IBM Watson AI Lab, NSF, and Hyundai Motor Company.&lt;/p&gt;
+
+&lt;p&gt;Open question: TLT focuses on the rollout phase, but as RL training evolves toward more complex reward signals and multi-step reasoning chains, will the idle-time distribution remain predictable enough for this approach to keep working? The long-tail distribution that creates idle time is also what makes the method possible.&lt;/p&gt;
+
+&lt;p&gt;Sources: &lt;a href="https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226"&gt;MIT News&lt;/a&gt; · &lt;a href="https://techxplore.com/news/2026-02-drafter-downtime-llm.html"&gt;TechXplore&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226"&gt;https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://techxplore.com/news/2026-02-drafter-downtime-llm.html"&gt;https://techxplore.com/news/2026-02-drafter-downtime-llm.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">c67d7c56-2146-5a54-9b46-d28e8f11d080</guid>
+      <pubDate>Sat, 28 Mar 2026 21:05:37 +0000</pubDate>
+      <category>ai-research</category>
+      <link>https://news.mit.edu/2026/new-method-could-increase-llm-training-efficiency-0226</link>
+      <enclosure url="https://news.mit.edu/sites/default/files/styles/news_article__download/public/download/202602/MIT-LongTail-01-press.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>RAYE's This Music May Contain Hope Is a 73-Minute Maximalist Triumph</title>
+      <description>&lt;p&gt;RAYE has spent the last two years turning a breakout moment into a full-blown career arc. After &lt;em&gt;My 21st Century Blues&lt;/em&gt; made her one of 2023's most talked-about artists, the pressure on her sophomore album was enormous. &lt;strong&gt;This Music May Contain Hope&lt;/strong&gt;, released March 27 on Human Re Sources, doesn't just meet those expectations — it blows past them with 17 tracks, 73 minutes, and the kind of ambition that most pop albums wouldn't dare attempt.&lt;/p&gt;
+
+&lt;p&gt;The album is structured around four seasons, with each vinyl side representing autumn, winter, spring, and summer. RAYE has described the project as "medicine" she created for herself that she can share with listeners — "a hug, bed or soft place" for anyone who needs it. That sounds like it could tip into sentimentality, but the execution is anything but soft. This is maximalism with teeth.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img src="https://www.nme.com/wp-content/uploads/2026/03/raye-credit-Aliyah-Otchere.jpg" alt="RAYE press photo by Aliyah Otchere" style="max-width:100%;height:auto;" /&gt;&lt;figcaption&gt;RAYE. Photo: Aliyah Otchere&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;The record moves through melodramatic ballads, exhilarating funk, jazz-pop detours, and orchestral grandeur — sometimes within a single track. Her lead single "Where Is My Husband!" became her second UK number-one, and the album's most striking collaboration pairs her with Hans Zimmer on "Click Clack Symphony," released as the third single on March 20. Other featured guests include Al Green and family member Grandad Michael, lending the album a personal warmth that grounds its scale. The second single, "Nightingale Lane," arrived with a performance video featuring The Flames Collective and the London Symphony Orchestra recorded at Abbey Road Studios — a production choice that tells you exactly how big RAYE is thinking.&lt;/p&gt;
+
+&lt;p&gt;Producers Jordan Riley, Mike Sabath, Punctual, and Toneworld contribute to a sound that never settles into one lane. NME gave it five stars, calling it "showstopping musical maximalism at its grandest." Rolling Stone UK, DIY, and The Independent followed with their own five-star reviews. On Metacritic, it sits at 90 out of 100 — universal acclaim by any measure, and the highest-rated pop album of 2026 so far.&lt;/p&gt;
+
+&lt;p&gt;For New Yorkers, the payoff comes soon: RAYE brings the tour to &lt;strong&gt;Radio City Music Hall on April 15 and 16&lt;/strong&gt;, with Absolutely and AMMA as support. Given the album's theatrical structure — it's designed to feel like a stage performance — Radio City is arguably the perfect venue. Tickets are available through Ticketmaster and Live Nation, and if the critical response is any indication, these shows won't stay available long.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/This_Music_May_Contain_Hope"&gt;https://en.wikipedia.org/wiki/This_Music_May_Contain_Hope&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.nme.com/reviews/album/raye-this-music-may-contain-hope-review-3936886"&gt;https://www.nme.com/reviews/album/raye-this-music-may-contain-hope-review-3936886&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.albumoftheyear.org/album/1471943-raye-this-music-may-contain-hope.php"&gt;https://www.albumoftheyear.org/album/1471943-raye-this-music-may-contain-hope.php&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.ticketmaster.com/raye-this-tour-may-contain-new-new-york-new-york-04-15-2026/event/3C006332824B0EC7"&gt;https://www.ticketmaster.com/raye-this-tour-may-contain-new-new-york-new-york-04-15-2026/event/3C006332824B0EC7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">8dbcd5cb-c05a-52cf-9cd6-1d412f7b55d6</guid>
+      <pubDate>Sat, 28 Mar 2026 21:05:44 +0000</pubDate>
+      <category>music-pulse</category>
+      <link>https://en.wikipedia.org/wiki/This_Music_May_Contain_Hope</link>
+      <enclosure url="https://www.nme.com/wp-content/uploads/2026/03/raye-credit-Aliyah-Otchere.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Brooklyn's March Opening Wave: Bar Ferdinando, Pies 'n' Thighs Park Slope, and a Vegan Sushi First</title>
+      <description>&lt;p&gt;March brought a surge of new openings across Brooklyn, and three stand out for different reasons — a historic revival in Carroll Gardens, a beloved Southern spot expanding to Park Slope, and a Toronto-born vegan sushi restaurant making its U.S. debut.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bar Ferdinando&lt;/strong&gt; (151 Union St, Carroll Gardens) is the most symbolically loaded of the bunch. The space housed Ferdinando's Focacceria for over 120 years — a Sicilian institution that served panelle and arancini to generations of Brooklyn's Italian-American community before closing. The team behind Cafe Spaghetti has taken over the space and kept the spirit intact: the all-day menu centers on focaccia sandwiches, Sicilian classics like pane e panelle, octopus salad, caponata, and insalata di mare, plus an amaro-forward cocktail program. Pastry comes from a chef who previously worked at Radio Bakery and Agi's Counter. It's not a museum piece — it's a real neighborhood bar and cafe that happens to honor a century of history in the right way.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pies 'n' Thighs&lt;/strong&gt; (244 Flatbush Ave, Park Slope) needs less introduction. The Williamsburg fried chicken and biscuit spot has been a staple for years, and the second location brings the same core menu — crispy fried chicken, flaky biscuits, pimento mac and cheese — to a neighborhood that's been underserved on the Southern comfort front. New additions include kid-friendly options like chicken tenders, a nod to Park Slope's family-heavy demographics. The Flatbush Avenue location is larger and reportedly handles crowds better than the sometimes-chaotic original.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tenon&lt;/strong&gt; (329 Flatbush Ave, Park Slope) is the wild card. This all-vegan sushi restaurant is the first U.S. location of a Toronto concept, and it's betting that plant-based sushi has moved past the novelty phase. Park Slope — which probably has the highest per-capita density of people who'll try vegan sushi without being asked twice — is a shrewd choice for a first American outpost.&lt;/p&gt;
+
+&lt;p&gt;Also worth noting from this month's openings: &lt;strong&gt;Bodega Nights&lt;/strong&gt; (425 Troutman St, Bushwick), a Brazilian natural wine bar with live-fire cooking; &lt;strong&gt;Sea and Soil&lt;/strong&gt; (388 Atlantic Ave, Boerum Hill), a worker-owned bakery; and &lt;strong&gt;Chama Mama&lt;/strong&gt; (81 Morgan Ave, Bushwick), a Georgian restaurant with an attached bakery doing traditional khachapuri. The full list of March Brooklyn openings runs over twenty spots — it's been a busy month.&lt;/p&gt;
+
+&lt;p&gt;Sources: &lt;a href="https://brooklynbridgeparents.com/new-restaurants-bars-bakeries-supermarkets-and-cafes-that-opened-in-our-neighborhoods-in-march-26/"&gt;Brooklyn Bridge Parents&lt;/a&gt;, &lt;a href="https://www.theinfatuation.com/new-york/guides/nyc-spring-restaurant-openings-2026"&gt;The Infatuation&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://brooklynbridgeparents.com/new-restaurants-bars-bakeries-supermarkets-and-cafes-that-opened-in-our-neighborhoods-in-march-26/"&gt;https://brooklynbridgeparents.com/new-restaurants-bars-bakeries-supermarkets-and-cafes-that-opened-in-our-neighborhoods-in-march-26/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.theinfatuation.com/new-york/guides/nyc-spring-restaurant-openings-2026"&gt;https://www.theinfatuation.com/new-york/guides/nyc-spring-restaurant-openings-2026&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">21e0d430-0ab5-519f-8b61-2f8695378f21</guid>
+      <pubDate>Sat, 28 Mar 2026 21:05:48 +0000</pubDate>
+      <category>nyc-local</category>
+      <link>https://brooklynbridgeparents.com/new-restaurants-bars-bakeries-supermarkets-and-cafes-that-opened-in-our-neighborhoods-in-march-26/</link>
+      <enclosure url="https://brooklynbridgeparents.com/wp-content/uploads/2026/03/Untitled-2.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Mexico's Measles Emergency: Tens of Thousands of Cases and a 2.5 Million Shots-Per-Week Race</title>
+      <description>&lt;p&gt;Mexico is in the middle of a serious measles outbreak — one that started in Texas Mennonite communities in 2025 and has now spread nationally, forcing the government to launch one of the most aggressive vaccination campaigns in the country's recent history.&lt;/p&gt;
+
+&lt;p&gt;The numbers are stark. Mexico has confirmed 9,187 measles cases since the start of 2025, with roughly 30% of those — about 2,755 — recorded in just the first months of 2026. Twenty-eight people have died. Health authorities are now aiming to administer 2.5 million vaccine doses per week to achieve herd immunity quickly enough to stop the spread before the hot season accelerates transmission.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How it started:&lt;/strong&gt; A 9-year-old child in the northern state of Chihuahua fell ill in 2025 after visiting relatives in Gaines County, Texas. The case ripped through Mexico's largely unvaccinated Mennonite communities — estimated at around 70,000 people nationwide — and then spilled outward into the broader population. Chihuahua remains the epicenter, but cases have now appeared in multiple states.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The response:&lt;/strong&gt; Mexico has 28 million vaccine doses ready to administer immediately, on top of the 14.3 million already used since the outbreak began. The campaign is unusually aggressive in its reach: nurses go door-to-door, and pop-up vaccination stations have appeared in bakeries, bus terminals, cinemas, shopping malls, and traffic roundabouts. The government says there is enough supply to protect the full population.&lt;/p&gt;
+
+&lt;p&gt;The harder problem is demand. Mexico's vaccination rates have eroded over the past decade as public health funding failed to keep pace with population growth. Distrust of institutions — especially among rural, indigenous, and some religious communities — is a persistent obstacle. Health workers report that even high-profile government campaigns don't automatically translate into uptake in the communities most at risk.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why it matters beyond Mexico:&lt;/strong&gt; Measles is one of the most contagious pathogens known, and Mexico shares a 3,000-kilometer border with the United States. CDC and Texas health officials are already tracking the border corridor closely. The outbreak is also a case study in how vaccination coverage gaps — even in countries with functional health systems — can be exploited by a single index case.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What to watch:&lt;/strong&gt; The weekly case count over the next three weeks will determine whether the 2.5 million jabs-per-week pace is fast enough. If confirmed cases continue rising through mid-April despite the campaign, health officials will likely escalate to mandatory vaccination in affected regions — a politically fraught step the government has so far avoided.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://www.npr.org/2026/03/28/g-s1-115502/measles-vaccines-mexico"&gt;https://www.npr.org/2026/03/28/g-s1-115502/measles-vaccines-mexico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://mexiconewsdaily.com/news/measles-outbreak-mexico-vaccination/"&gt;https://mexiconewsdaily.com/news/measles-outbreak-mexico-vaccination/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">c8317486-1951-51a7-b0b0-b27c531b158e</guid>
+      <pubDate>Sat, 28 Mar 2026 21:05:53 +0000</pubDate>
+      <category>world-news</category>
+      <link>https://www.npr.org/2026/03/28/g-s1-115502/measles-vaccines-mexico</link>
+      <enclosure url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6240x3510+0+650/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1c%2F9b%2F7bbbf76641e793aac3a8a42abecd%2Fmexico-measles-2260643840.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Harry Styles Goes Full Dance Floor on Kiss All the Time — Critics Are Split</title>
+      <description>&lt;p&gt;Harry Styles' fourth studio album arrived on March 6 with a title that doubles as a manifesto: &lt;strong&gt;Kiss All the Time. Disco, Occasionally.&lt;/strong&gt; After &lt;em&gt;Harry's House&lt;/em&gt; leaned into bedroom pop and soft indie textures, this 12-track, 42-minute record pivots hard toward dance-pop, electronic production, and disco revival — a move that has divided critics more sharply than anything Styles has released.&lt;/p&gt;
+
+&lt;p&gt;The LCD Soundsystem influence is right there on the surface. Styles has cited James Murphy's band as a primary inspiration, describing their music as "joyous," and you can hear it in the album's pulse-driven arrangements and emphasis on rhythm over hooks. Long-time collaborator Kid Harpoon produced every track, with Tyler Johnson contributing to seven. The guest list is revealing: Ellie Rowsell of Wolf Alice provides vocals, the House Gospel Choir appears, and Tom Skinner — known for his work with Sons of Kemet and The Smile — handles drums and background vocals. Jules Buckley arranged the orchestral parts.&lt;/p&gt;
+
+&lt;p&gt;Lead single "Aperture," released January 22, hit number one on the Billboard Hot 100 — Styles' third chart-topper — suggesting the audience was ready for the shift even if some critics weren't. The album itself debuted with 430,000 equivalent units in the US, topping the Billboard 200 for the fourth consecutive time, with 183,045 units in the UK marking his biggest opening week ever. It reached number one in over 20 territories.&lt;/p&gt;
+
+&lt;p&gt;The reviews, though, tell a more complicated story. Metacritic currently has it at 72, which is "generally favorable" but well below the ecstatic reception of his earlier work. Rolling Stone called it "delightfully strange, often lovely, and consistently fascinating." NME praised Styles for moving beyond "gossip-fuelled songwriting" into more exploratory territory. But The Guardian found it sonically cohesive yet lacking memorability, and Paste critiqued the overprocessed vocals and electronics-heavy production. One review captured the tension neatly: "When an incredibly niche album comes from one of the biggest pop stars in the world, the result is less 'disco revival' and more confusion with occasional disco."&lt;/p&gt;
+
+&lt;p&gt;The split reception matters because it highlights a real tension in mainstream pop right now. The biggest stars — Styles, Charli XCX with &lt;em&gt;Wuthering Heights&lt;/em&gt; earlier this year, Robyn with &lt;em&gt;Sexistential&lt;/em&gt; last week — are all pushing away from safe, algorithm-friendly formulas toward more personal, genre-bent projects. Audiences are following (the sales numbers prove it), but critics aren't sure the artistic ambition always lands. For Styles, the commercial bet has already paid off. Whether the album has staying power is the open question.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Kiss_All_the_Time._Disco"&gt;https://en.wikipedia.org/wiki/Kiss_All_the_Time._Disco&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="_Occasionally"&gt;_Occasionally&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://variety.com/2026/music/reviews/harry-styles-kiss-all-the-time-disco-occasionally-album-review-1236678689/"&gt;https://variety.com/2026/music/reviews/harry-styles-kiss-all-the-time-disco-occasionally-album-review-1236678689/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.albumoftheyear.org/album/1617971-harry-styles-kiss-all-the-time-disco-occasionally.php"&gt;https://www.albumoftheyear.org/album/1617971-harry-styles-kiss-all-the-time-disco-occasionally.php&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">ce1d7dd8-0f03-5ce7-b6c6-5abee8a25b82</guid>
+      <pubDate>Sat, 28 Mar 2026 21:06:04 +0000</pubDate>
+      <category>music-pulse</category>
+      <link>https://en.wikipedia.org/wiki/Kiss_All_the_Time._Disco</link>
+      <enclosure url="https://upload.wikimedia.org/wikipedia/en/3/3c/Harry_Styles_-_Kiss_All_the_Time._Disco%2C_Occasionally.png" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>DeepSeek's mHC: Fixing the Residual Connection Bottleneck That Limits Model Scaling</title>
+      <description>&lt;p&gt;Residual connections are one of deep learning's most important tricks — they let gradients flow through dozens or hundreds of layers without vanishing. But DeepSeek's research team has identified a fundamental limitation: as models scale in depth and width, a single residual stream becomes an information bottleneck. Their solution, &lt;strong&gt;Manifold-Constrained Hyper-Connections (mHC)&lt;/strong&gt;, replaces the single residual pathway with multiple parallel streams while keeping training stable — something previous attempts failed to do.&lt;/p&gt;
+
+&lt;p&gt;The story starts with Hyper-Connections (HC), an earlier approach that introduced multiple parallel information streams between layers. In theory, HC should increase bandwidth — more streams means more information can flow between layers. In practice, it falls apart at scale. The mixing matrices that combine these streams are unconstrained learnable parameters, and in a 27B parameter model, DeepSeek found that unconstrained HC caused signal gains exceeding 3000x, leading to catastrophic training divergence. This isn't a hyperparameter tuning problem; it's a structural instability.&lt;/p&gt;
+
+&lt;p&gt;mHC fixes this by constraining the mixing matrices to the &lt;strong&gt;Birkhoff Polytope&lt;/strong&gt; — the set of doubly stochastic matrices where every row and column sums to exactly 1. This mathematical constraint guarantees that signals neither explode nor vanish as they pass through layers, no matter how deep the network. The constraint is enforced during training using the Sinkhorn-Knopp algorithm, an iterative procedure that projects any matrix onto the Birkhoff Polytope by alternately normalizing rows and columns.&lt;/p&gt;
+
+&lt;p&gt;The practical effect is dramatic. Where unconstrained HC showed maximum gain magnitudes in the thousands, mHC reduced this to around 1.6x — three orders of magnitude more stable. Even after composing 60+ layers, both forward and backward signal gains remained well-controlled. DeepSeek tested mHC at three scales (3B, 9B, and 27B parameters), and it trained smoothly at all of them while unconstrained HC often diverged.&lt;/p&gt;
+
+&lt;p&gt;On benchmarks, mHC consistently outperformed standard transformer baselines across eight evaluations including GSM8K and MMLU. And the cost is modest: a 4x wider residual stream (the configuration they recommend) adds only 6.7% training time overhead. That's a favorable trade — you get meaningfully better information flow across the entire network for the compute cost of a rounding error in your GPU bill.&lt;/p&gt;
+
+&lt;p&gt;What makes this work significant is the diagnosis as much as the cure. The AI field has largely treated residual connections as a solved problem since ResNets in 2015 — just add the input to the output and move on. DeepSeek is arguing that this "solved" component is actually a scaling bottleneck, and that how layers connect can be as important as what happens inside them. If mHC or something like it becomes standard architecture, it could change the compute-performance tradeoff for training frontier models.&lt;/p&gt;
+
+&lt;p&gt;The paper signals DeepSeek's continued push toward training bigger models for less — a theme consistent with their earlier efficiency-focused work on DeepSeek-V3 and R1. Whether mHC shows up in their next frontier model release will be worth watching.&lt;/p&gt;
+
+&lt;p&gt;Sources: &lt;a href="https://arxiv.org/abs/2512.24880"&gt;arXiv paper&lt;/a&gt; · &lt;a href="https://medium.com/@sampan090611/deepseek-mhc-explained-how-manifold-constrained-hyper-connections-redefine-residual-connections-in-2902b6cdaea3"&gt;mHC Explained (Medium)&lt;/a&gt; · &lt;a href="https://www.scmp.com/tech/big-tech/article/3338427/deepseek-kicks-2026-paper-signalling-push-train-bigger-models-less"&gt;SCMP&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://arxiv.org/abs/2512.24880"&gt;https://arxiv.org/abs/2512.24880&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://medium.com/@sampan090611/deepseek-mhc-explained-how-manifold-constrained-hyper-connections-redefine-residual-connections-in-2902b6cdaea3"&gt;https://medium.com/@sampan090611/deepseek-mhc-explained-how-manifold-constrained-hyper-connections-redefine-residual-connections-in-2902b6cdaea3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.scmp.com/tech/big-tech/article/3338427/deepseek-kicks-2026-paper-signalling-push-train-bigger-models-less"&gt;https://www.scmp.com/tech/big-tech/article/3338427/deepseek-kicks-2026-paper-signalling-push-train-bigger-models-less&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">9a6829e6-6605-57f7-aaaf-4e449db29396</guid>
+      <pubDate>Sat, 28 Mar 2026 21:06:08 +0000</pubDate>
+      <category>ai-research</category>
+      <link>https://arxiv.org/abs/2512.24880</link>
+      <enclosure url="https://subhadipmitra.com/assets/img/og/deepseek-mhc-manifold-constrained-hyper-connections.png" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Ladytron's Paradises: 16 Tracks of Synth-Pop That Can't Quite Decide When to Stop</title>
+      <description>&lt;p&gt;Ladytron's eighth album &lt;strong&gt;Paradises&lt;/strong&gt;, released March 20 on Nettwerk, arrives with a clear mission statement: get back to the dance floor. The Liverpool-formed synth-pop group has been making records for over 25 years, and their press materials position this as their most dance-oriented work since 2002's &lt;em&gt;Light &amp;amp; Magic&lt;/em&gt;. That comparison is earned — but so are the concerns about what happens when you spread a dance-floor album across 16 tracks and 73 minutes.&lt;/p&gt;
+
+&lt;p&gt;Grammy-winning producer Jim Abbiss helmed the sessions, and his touch is evident in the album's attention to textural detail. The production layers vintage synthesizer samples — Fairlight CMI, Vox Humana — over mechanical disco beats and clunky techno-percussion. Emulated orchestral elements (strings, harps, bells) drift through the mix, giving the whole thing a cinematic quality that lifts it above straightforward retro pastiche. Helen Marnie and Mira Aroyo's vocals maintain the band's signature cool detachment, functioning less as conventional singing and more as another slightly menacing instrument in the arrangement.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img src="https://i0.wp.com/joyzine.org/wp-content/uploads/2026/03/Ladytron.jpg" alt="Ladytron press photo" style="max-width:100%;height:auto;" /&gt;&lt;figcaption&gt;Ladytron&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;The highlights are scattered generously. "I Believe in You" opens with pulsing mechanical beats that set the album's rhythm-first agenda. "Death in London" draws comparisons to Cocteau Twins applied to industrial synth-pop — vocals dissolving into texture over layers of distortion. "We Wrote Our Names in the Dust" incorporates 80s percussion and 8-bit production flourishes, delivering a playful energy that the album could use more of. "Kingdom Undersea" drops a Scissor Sisters-style piano line into the mix, while "Metaphysica" goes full New Romantic with layered synthesizers that recall the genre's early-80s peak. "Caught in the Blink of an Eye" addresses mortality while somehow maintaining euphoria — a trick Ladytron has always been good at.&lt;/p&gt;
+
+&lt;p&gt;The problem is that 16 tracks is a lot, even when individual songs work. AllMusic's assessment cuts to the core: "More diluted than truly disappointing, Paradises boasts enough standout tracks to please fans — but with more shaping and a sharper mix, it could've been one of Ladytron's great albums." The critic aggregate at Album of the Year reflects this, sitting at 67 based on nine reviews. The Quietus is kinder, noting that "Ladytron are back, and with Paradises, their danceable and thoughtful pop music seems to have gained new resolve."&lt;/p&gt;
+
+&lt;p&gt;Strip this down to 10 or 11 tracks and you'd have a tight, confident return to form. As it stands, Paradises is a record with a dozen great ideas buried in a runtime that needed an editor. Fans of the band's earlier work — especially &lt;em&gt;Light &amp;amp; Magic&lt;/em&gt; and &lt;em&gt;Witching Hour&lt;/em&gt; — will find plenty to love. Everyone else should make a playlist of the best eight tracks and treat it as the album Ladytron probably intended.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://joyzine.org/2026/03/19/album-review-ladytron-paradises/"&gt;https://joyzine.org/2026/03/19/album-review-ladytron-paradises/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.albumoftheyear.org/album/1548406-ladytron-paradises.php"&gt;https://www.albumoftheyear.org/album/1548406-ladytron-paradises.php&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://readrange.com/ladytron-paradises-review/"&gt;https://readrange.com/ladytron-paradises-review/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://thequietus.com/quietus-reviews/ladytron-paradises-review/"&gt;https://thequietus.com/quietus-reviews/ladytron-paradises-review/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">3ebfd1ee-6bff-5e82-8099-41471d5a6330</guid>
+      <pubDate>Sat, 28 Mar 2026 21:06:29 +0000</pubDate>
+      <category>music-pulse</category>
+      <link>https://joyzine.org/2026/03/19/album-review-ladytron-paradises/</link>
+      <enclosure url="https://i0.wp.com/joyzine.org/wp-content/uploads/2026/03/Ladytron.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Trump vs. NATO: The Iran War Is Cracking the Atlantic Alliance</title>
+      <description>&lt;p&gt;The Iran war has done something that years of Donald Trump's rhetoric about NATO could not: it has produced an open rupture between the United States and its European allies, with Trump now openly questioning whether the U.S. should remain bound by its Article 5 commitments to defend NATO members who refused to join the fight.&lt;/p&gt;
+
+&lt;p&gt;The break crystallized on March 16, when NATO's European members formally rejected Trump's demand that they deploy naval forces to reopen the Strait of Hormuz. European capitals, led by France, positioned their refusal in terms of international law and de-escalation. "I have not heard anyone here express a willingness to enter this conflict — quite the opposite," French President Emmanuel Macron said after an EU summit in Brussels.&lt;/p&gt;
+
+&lt;p&gt;Trump's reaction escalated rapidly. He called European allies "cowards" on Truth Social and vowed they would be "remembered" for their refusal. By this week, he was telling reporters he was "very disappointed" in NATO and raising questions about U.S. defense commitments — the same suggestions that alarmed European capitals during his first term, but now made in the context of an active war the U.S. is already fighting.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Why it matters:&lt;/strong&gt; NATO has survived internal arguments over burden-sharing and Iraq before, but this situation has a different structure. The U.S. is not asking for symbolic solidarity; it is asking allies to commit naval forces to a conflict most European governments view as legally and strategically unjustified. Europe's refusal is not procrastination — it is a considered position. That makes it harder to walk back on both sides.&lt;/p&gt;
+
+&lt;p&gt;The fracture also has concrete consequences beyond rhetoric. The administration has already been informally signaling reduced intelligence-sharing with some European capitals and has sidelined EU representatives from the diplomatic back-channel being run by envoy Steve Witkoff. France 24 reported this week that European officials feel not just excluded but actively threatened — the administration has suggested future tariff pressure could be tied to alignment on Iran policy.&lt;/p&gt;
+
+&lt;p&gt;For Europe, the problem is structural. NATO was built on the assumption that the U.S. and its European allies would face threats together, not that the U.S. would launch a war that Europe views as a threat to global stability and then demand European complicity.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What to watch:&lt;/strong&gt; The next formal test will be NATO's June ministerial meeting, which was already going to be tense over Ukraine funding. If Trump follows through on cutting intelligence sharing or conditioning Article 5 commitments on Iran policy support, that meeting could become a crisis. Watch also whether Germany — historically the most cautious NATO member — breaks from France and moves toward some form of limited cooperation with Washington as a circuit-breaker.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://www.washingtonpost.com/politics/2026/03/27/trump-nato-iran-war/"&gt;https://www.washingtonpost.com/politics/2026/03/27/trump-nato-iran-war/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.france24.com/en/tv-shows/talking-europe/20260327-trump-administration-sidelines-threatens-europe-in-iran-war-eu-flounders-in-new-world-order"&gt;https://www.france24.com/en/tv-shows/talking-europe/20260327-trump-administration-sidelines-threatens-europe-in-iran-war-eu-flounders-in-new-world-order&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://edition.cnn.com/2026/03/27/world/video/trump-iran-nato-sciutto-live-ctw-0327-10a-seg1-ctw-cnni-world-fast"&gt;https://edition.cnn.com/2026/03/27/world/video/trump-iran-nato-sciutto-live-ctw-0327-10a-seg1-ctw-cnni-world-fast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">e75ad863-9239-578b-a451-d2f6e9bfa992</guid>
+      <pubDate>Sat, 28 Mar 2026 21:06:35 +0000</pubDate>
+      <category>world-news</category>
+      <link>https://www.washingtonpost.com/politics/2026/03/27/trump-nato-iran-war/</link>
+      <enclosure url="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IQHHKGIEWRDMXCBCIAUUSWGOUA_size-normalized.jpg&amp;amp;w=1440" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Qwen 3.5 Small: Alibaba's 9B Model Outscores GPT-oss-120B on Graduate-Level Reasoning</title>
+      <description>&lt;p&gt;Alibaba's Qwen team released the &lt;strong&gt;Qwen 3.5 Small&lt;/strong&gt; series on March 2 — four dense models at 0.8B, 2B, 4B, and 9B parameters that are natively multimodal, handling text, images, and video through a single set of weights without bolted-on vision adapters. The headline result: the 9B model scores 81.7 on GPQA Diamond (graduate-level science reasoning) versus 71.5 for OpenAI's GPT-oss-120B, a model 13.5x its size. All four models ship under Apache 2.0.&lt;/p&gt;
+
+&lt;p&gt;The benchmark numbers across the board are hard to dismiss as cherry-picking. Against GPT-oss-120B (120B parameters), the Qwen 3.5-9B wins on GPQA Diamond (+10.2 points), HMMT Feb 2025 math competition problems (+6.5), and MMLU-Pro (+1.7). Against GPT-5-Nano, the gaps are even wider: +12.9 on MMMU-Pro visual reasoning, +16.7 on MathVision, and a stunning +31.8 on OmniDocBench v1.5 for document understanding. On video understanding (VideoMME with subtitles), Qwen 3.5-9B hits 87.5, well ahead of Gemini 2.5 Flash-Lite's 74.6.&lt;/p&gt;
+
+&lt;p&gt;The architecture makes several interesting choices. It uses a &lt;strong&gt;Gated DeltaNet hybrid attention&lt;/strong&gt; mechanism with a 3:1 ratio of linear to full attention layers — meaning three-quarters of layers use the cheaper linear attention, with every fourth layer doing full quadratic attention. This is a practical compromise between efficiency and expressiveness. The models support 262K native context length (extended to 1M on the 9B), a 248K-token vocabulary spanning 201 languages, and multi-token prediction during training.&lt;/p&gt;
+
+&lt;p&gt;The smallest model (0.8B) is particularly notable. It scores 79.1 on OCRBench and can process video — capabilities that would have required a model 10x larger just a year ago. This puts genuine multimodal AI on phones and embedded devices, not as a demo but as a practically useful capability.&lt;/p&gt;
+
+&lt;p&gt;What's happening here is a broader trend accelerating: the gap between frontier proprietary models and capable open-weight alternatives is collapsing. A year ago, matching GPT-4-class performance required models with hundreds of billions of parameters and massive inference budgets. Now a 9B model you can run on a single consumer GPU is competitive on hard reasoning benchmarks. The key enablers appear to be better training data, architectural innovations like hybrid attention, and multi-token prediction — which trains the model to predict several tokens ahead simultaneously, providing richer learning signal per training step.&lt;/p&gt;
+
+&lt;p&gt;For practitioners, the implications are immediate. A 9B model that beats a 120B model on reasoning benchmarks means you can deploy strong capabilities at a fraction of the serving cost. The native multimodal architecture — no separate vision encoder to manage — simplifies deployment further. And Apache 2.0 licensing means no commercial restrictions.&lt;/p&gt;
+
+&lt;p&gt;The open question is whether these small-model gains transfer to the messier tasks that matter in production: long-context faithfulness, instruction following with complex constraints, and robustness to adversarial inputs. Benchmarks test specific capabilities in controlled settings; real-world deployment surfaces failure modes that benchmarks miss. Still, the trajectory is clear: capable, efficient, open models are arriving faster than most deployment pipelines can absorb them.&lt;/p&gt;
+
+&lt;p&gt;Sources: &lt;a href="https://stable-learn.com/en/qwen35-native-multimodal-agent-model/"&gt;StableLearn&lt;/a&gt; · &lt;a href="https://betterstack.com/community/guides/ai/qwen-35/"&gt;Better Stack&lt;/a&gt; · &lt;a href="https://huggingface.co/Qwen/Qwen3.5-4B"&gt;Hugging Face&lt;/a&gt;&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://stable-learn.com/en/qwen35-native-multimodal-agent-model/"&gt;https://stable-learn.com/en/qwen35-native-multimodal-agent-model/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://betterstack.com/community/guides/ai/qwen-35/"&gt;https://betterstack.com/community/guides/ai/qwen-35/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://huggingface.co/Qwen/Qwen3.5-4B"&gt;https://huggingface.co/Qwen/Qwen3.5-4B&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">a6ed3226-867a-5408-a198-b72cae8cde55</guid>
+      <pubDate>Sat, 28 Mar 2026 21:06:39 +0000</pubDate>
+      <category>ai-research</category>
+      <link>https://stable-learn.com/en/qwen35-native-multimodal-agent-model/</link>
+      <enclosure url="https://stable-learn.com/_astro/qwen3.5.CH38Z7QP.png" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
