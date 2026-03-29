@@ -4,7 +4,7 @@
     <title>Wynn's Daily Briefings</title>
     <description>Daily briefings on AI, world news, music, and NYC life</description>
     <link>https://WynnCJF.github.io/cc-deepfeed/daily-briefings.xml</link>
-    <lastBuildDate>Sun, 29 Mar 2026 13:58:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 22:57:12 +0000</lastBuildDate>
     <generator>cc-deepfeed</generator>
     <ns0:link rel="hub" href="https://pubsubhubbub.appspot.com" />
     <ns0:link rel="self" href="https://WynnCJF.github.io/cc-deepfeed/daily-briefings.xml" type="application/rss+xml" />
@@ -457,6 +457,206 @@
       <category>indie-electronic</category>
       <link>https://www.deejay.de/Gak_Sato_and_Tadahiko_Yokogawa_Renga_LP_WRWTFWW124_Vinyl__1213496/lang_en</link>
       <enclosure url="https://www.deejay.de/images/xl/9/6/1213496.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Apple Music's Playlist Playground Arrives — AI Curation Without the AI Hardware</title>
+      <description>&lt;p&gt;Apple released iOS 26.4 on March 24, and with it came &lt;strong&gt;Playlist Playground&lt;/strong&gt;, a new Apple Music feature that generates 25-song playlists from natural-language text prompts. Type in a mood ("rainy Sunday jazz"), an activity ("high-energy gym session"), or a specific constraint ("disco songs that defined the 1970s, nothing after 1982"), and the system assembles a playlist drawing on trending data and your personal listening history. Apple provides starter suggestions like "morning coffee music" and "hip-hop party songs," but the real value is in freeform prompts where you describe exactly the vibe you're chasing.&lt;/p&gt;
+
+&lt;p&gt;The feature lives in the Library tab under playlist creation. Once generated, you can refine results with follow-up prompts — removing songs from a specific era, for instance, or tilting the selection toward a particular subgenre. You can also customize the cover art and description before saving. Generated playlists behave like any other Apple Music playlist: saveable, downloadable for offline play, shareable, and open to collaborative editing where you can invite friends to add their own picks.&lt;/p&gt;
+
+&lt;p&gt;What's notable is what Playlist Playground &lt;em&gt;doesn't&lt;/em&gt; require. Unlike many Apple Intelligence features that demand an M-series chip or iPhone 15 Pro and above, Playlist Playground runs server-side as part of the Apple Music service itself. Any US subscriber on iOS 26.4 with English language settings can use it, regardless of hardware generation. Apple also shipped the feature simultaneously to Android via Apple Music 5.2, along with a redesigned album page layout. That's a deliberate accessibility choice: Apple is positioning AI curation as a baseline service feature, not a premium hardware perk reserved for its newest devices.&lt;/p&gt;
+
+&lt;p&gt;The obvious comparison is Spotify's AI DJ, which launched in early 2023 and now reaches over 100 markets. But the two features occupy different niches. Spotify's DJ is a passive, radio-style experience — a synthetic voice guides you through curated selections, explaining why each song was chosen. Playlist Playground is active and user-directed. You tell it exactly what you want, then iterate on the results. It's closer to a conversational search tool than a lean-back listening mode. Amazon Music has its own Maestro feature for prompt-based playlist building, and YouTube Music added similar AI playlist generation late last year. The convergence is unmistakable: every major platform now treats this as table stakes.&lt;/p&gt;
+
+&lt;p&gt;There's a practical gap worth watching, though. Prompt-based curation only works as well as the metadata and taste modeling behind it. Early user reports suggest Playlist Playground handles broad mood prompts competently but struggles with niche genre intersections or highly specific artist-adjacency requests — try asking for "bands that sound like Stereolab but with more guitar" and you'll likely get generic indie rock. Apple's catalog metadata has historically been less granular than Spotify's audio-analysis-derived features like danceability, energy, and valence scores, so the quality ceiling may depend on how much Apple invests in enriching its music graph over time.&lt;/p&gt;
+
+&lt;p&gt;For now, Playlist Playground carries a beta label and remains US-only. But the strategic intent is clear. Apple has spent years leaning on human-curated editorial playlists as its differentiator against Spotify's algorithmic approach. Playlist Playground doesn't abandon that identity — it augments it by giving listeners a way to pull specific slices of the catalog on demand, rather than waiting for an editor to build the perfect list. Whether Apple can make its AI curation as sharp as its editorial taste remains the open question.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://www.macrumors.com/2026/03/24/apple-releases-ios-26-4/"&gt;https://www.macrumors.com/2026/03/24/apple-releases-ios-26-4/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.engadget.com/entertainment/music/how-to-use-apples-playlist-playground-to-make-ai-generated-mixes-134500610.html"&gt;https://www.engadget.com/entertainment/music/how-to-use-apples-playlist-playground-to-make-ai-generated-mixes-134500610.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://9to5google.com/2026/03/24/apple-music-5-2-android/"&gt;https://9to5google.com/2026/03/24/apple-music-5-2-android/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">20bf979c-906b-5277-b563-99970dba3e89</guid>
+      <pubDate>Sun, 29 Mar 2026 22:53:09 +0000</pubDate>
+      <category>music-tech</category>
+      <link>https://www.macrumors.com/2026/03/24/apple-releases-ios-26-4/</link>
+      <enclosure url="https://images.macrumors.com/t/9VGSl0TcTDVVsYVuN0Q2iLnR62E=/1600x0/article-new/2026/02/ios-26-4-yellow.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Charli XCX's Wuthering Heights Is the Smartest Post-Brat Move She Could Have Made</title>
+      <description>&lt;p&gt;How do you follow the album that defined a summer, became a meme, infiltrated a presidential campaign, and spawned an A24 mockumentary? If you're Charli XCX, you don't try. You score a gothic period film instead.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Wuthering Heights&lt;/em&gt;, released February 13 as the soundtrack to Emerald Fennell's loose Brontë adaptation, is a strategic masterpiece disguised as a creative departure. By stepping into someone else's story — literally, a 19th-century novel — Charli sidestepped the impossible expectations that would've crushed any direct Brat sequel. And she did it without sacrificing ambition. The album debuted at number one on the UK Albums Chart, her third UK chart-topper, moving 21,071 units in its first week.&lt;/p&gt;
+
+&lt;p&gt;What makes this more than a clever career maneuver is that it's genuinely good — and genuinely weird. Charli described the sound as an &lt;strong&gt;"elegant and brutal sound palette"&lt;/strong&gt; that "couldn't be more different from Brat," aiming for something "undeniably raw, wild, sexual, gothic, and British." Working primarily with collaborator Finn Keane in rented studios throughout 2025 while still touring Brat, she built a record that trades neon club energy for moorland fog and string dissonance. The lead single "House," featuring Welsh avant-rock legend John Cale, signals the tonal shift immediately — this is Charli as art-pop auteur, not party ringleader.&lt;/p&gt;
+
+&lt;p&gt;Critics are divided in the most productive way. Slate's Carl Wilson called it "part movie soundtrack, part reset button." The Quietus praised its formal daring. NME described it as "delicious gothic" work. The New Statesman went further, arguing the soundtrack is the only good thing about the film itself. An Oxford academic, Lillian Hingley, &lt;a href='https://theconversation.com/charli-xcx-turned-wuthering-heights-into-a-sonic-gothic-masterpiece-276218'&gt;wrote in The Conversation&lt;/a&gt; that Charli's approach mirrors Brontë's own experimental narrative technique — the album doesn't follow plot but instead moves "between poles rather than a clear linear progression," creating sonic spaces that evoke the Yorkshire moors.&lt;/p&gt;
+
+&lt;p&gt;The psychoanalytic reading is especially sharp: tracks exploring Heathcliff's obsessive mourning map onto how pop audiences consume and project onto artists, the same dynamic Charli explored in &lt;em&gt;The Moment&lt;/em&gt;, her Berlinale mockumentary about creative ownership. The Brat-to-Wuthering Heights arc isn't just a sonic pivot — it's Charli processing, in real time, what it means to have your art become public property and then choosing to inhabit someone else's art as a form of liberation.&lt;/p&gt;
+
+&lt;p&gt;There's a broader lesson here about the &lt;strong&gt;soundtrack album as career strategy&lt;/strong&gt;. In an era where artists are expected to top themselves with every cycle, scoring a film offers creative cover. Radiohead did it with &lt;em&gt;Spectre&lt;/em&gt; (rejected) and Jonny Greenwood's solo work. Trent Reznor and Atticus Ross made it a second career. Charli's version is more pop-forward but follows the same logic: the film gives you permission to be someone else for a record. That she chose a Brontë adaptation — the most English, most literary, most anti-Brat source material imaginable — suggests she's thinking several moves ahead.&lt;/p&gt;
+
+&lt;p&gt;Whether &lt;em&gt;Wuthering Heights&lt;/em&gt; endures as a standalone album or gets remembered as the clever intermission between Brat and whatever comes next, it proves Charli remains pop's most interesting strategic thinker. She didn't try to re-create a lightning strike. She just moved to different weather entirely.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://slate.com/culture/2026/02/wuthering-heights-charli-xcx-album-movie-2026-review.html"&gt;https://slate.com/culture/2026/02/wuthering-heights-charli-xcx-album-movie-2026-review.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://theconversation.com/charli-xcx-turned-wuthering-heights-into-a-sonic-gothic-masterpiece-276218"&gt;https://theconversation.com/charli-xcx-turned-wuthering-heights-into-a-sonic-gothic-masterpiece-276218&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.nme.com/reviews/album/charli-xcx-wuthering-heights-review-3930233"&gt;https://www.nme.com/reviews/album/charli-xcx-wuthering-heights-review-3930233&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.newstatesman.com/culture/2026/02/charli-xcxs-soundtrack-is-the-best-thing-about-wuthering-heights"&gt;https://www.newstatesman.com/culture/2026/02/charli-xcxs-soundtrack-is-the-best-thing-about-wuthering-heights&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Wuthering_Heights_(album)"&gt;https://en.wikipedia.org/wiki/Wuthering_Heights_(album)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">f673ac4c-b8d8-5c3f-b1d9-cedb2be69234</guid>
+      <pubDate>Sun, 29 Mar 2026 22:53:13 +0000</pubDate>
+      <category>pop-music</category>
+      <link>https://slate.com/culture/2026/02/wuthering-heights-charli-xcx-album-movie-2026-review.html</link>
+      <enclosure url="https://compote.slate.com/images/43736648-5fd9-41ef-9100-008c4d2fd3e9.jpeg?crop&amp;#x3D;2013%2C1342%2Cx0%2Cy0&amp;amp;width&amp;#x3D;1560" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Apple Music Launches AI Transparency Tags — But Who's Actually Going to Use Them?</title>
+      <description>&lt;p&gt;On March 4, Apple quietly rolled out what could become the music industry's first standardized AI disclosure system — or its most toothless gesture toward transparency. &lt;strong&gt;Transparency Tags&lt;/strong&gt; are a new metadata framework that lets labels and distributors flag when AI played a significant role in creating the music, artwork, or videos they deliver to Apple Music.&lt;/p&gt;
+
+&lt;p&gt;The system covers four categories. An &lt;em&gt;Artwork&lt;/em&gt; tag, applied at the album level, flags AI-generated cover art or motion graphics. A &lt;em&gt;Track&lt;/em&gt; tag marks sound recordings where AI generated a material portion of the audio. A &lt;em&gt;Composition&lt;/em&gt; tag covers AI-written lyrics or melodic elements. And a &lt;em&gt;Music Video&lt;/em&gt; tag applies to visual content with substantial AI involvement. Multiple tags can be applied simultaneously — a track with an AI-generated beat, AI-written lyrics, and AI-designed cover art could carry all four.&lt;/p&gt;
+
+&lt;p&gt;Apple framed these tags as similar to "genres, credits, and other metadata," deferring to content providers to determine what qualifies as AI-generated. That framing reveals both the pragmatism and the core weakness of the approach. There is no independent verification. No algorithmic detection. No penalty for omission. Apple's own technical specification states that "if omitted, none is assumed" — meaning silence is treated as human-made by default. For now, the tags are optional, though Apple indicated they will become mandatory for new submissions at some unspecified future date.&lt;/p&gt;
+
+&lt;p&gt;The contrast with Deezer's approach is stark. The French streaming platform has invested in building its own AI-detection tools and claims to flag approximately 60,000 fully AI-generated tracks daily, having identified over 13.4 million synthetic tracks in total. Deezer reported that up to 85% of streams on AI-generated music involved some form of fraud in 2025 — bot-driven plays designed to siphon royalty pools. Deezer's system is imperfect and produces false positives, but it at least attempts platform-level accountability rather than relying entirely on the supply chain to self-report.&lt;/p&gt;
+
+&lt;p&gt;Spotify, for its part, has taken a different tack. Rather than labeling AI content, Spotify has focused on upstream enforcement — pulling tens of thousands of suspected bot-generated tracks and implementing its 1,000-stream minimum threshold to cut off micropayment fraud. The platform hasn't announced any listener-facing AI labeling system.&lt;/p&gt;
+
+&lt;p&gt;The real question is whether labels will actually use Apple's tags in good faith. Major labels distributing AI-assisted tracks from established artists have a reputational incentive to be transparent — nobody wants a "gotcha" story about a secretly AI-generated hit. But the flood of content comes from independent distributors and micro-labels uploading thousands of tracks daily, where the economic incentive runs in the opposite direction. If AI-generated tracks can pass as human-made and collect the same royalties, voluntary disclosure is a tax on honesty.&lt;/p&gt;
+
+&lt;p&gt;Still, the tags matter as infrastructure even if adoption is slow. They establish a metadata standard that could eventually become mandatory, both on Apple's platform and potentially across the industry. The UK government's recent pivot toward creator transparency in AI — &lt;a href="https://www.macrumors.com/2026/03/05/apple-music-ai-transparency-tags/"&gt;following its March 18 reversal on opt-out training&lt;/a&gt; — could accelerate regulatory pressure for exactly this kind of labeling. And if Apple does flip the switch to mandatory, the framework is already built.&lt;/p&gt;
+
+&lt;p&gt;For artists, the immediate impact is minimal. But as a signal of where the industry is heading, Transparency Tags sketch out a future where AI involvement isn't hidden or controversial — it's just another piece of metadata, like songwriter credits or sample clearances. Whether that future arrives through voluntary compliance or regulatory mandate is the part nobody can predict yet.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://www.musicbusinessworldwide.com/apple-music-launches-ai-transparency-tags-but-only-if-labels-and-distributors-choose-to-declare-them/"&gt;https://www.musicbusinessworldwide.com/apple-music-launches-ai-transparency-tags-but-only-if-labels-and-distributors-choose-to-declare-them/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://musically.com/2026/03/05/apple-music-adds-transparency-tags-for-uses-of-ai-with-music/"&gt;https://musically.com/2026/03/05/apple-music-adds-transparency-tags-for-uses-of-ai-with-music/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.macrumors.com/2026/03/05/apple-music-ai-transparency-tags/"&gt;https://www.macrumors.com/2026/03/05/apple-music-ai-transparency-tags/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">40c30ca4-60ae-5d87-9461-7bee471eccf1</guid>
+      <pubDate>Sun, 29 Mar 2026 22:53:36 +0000</pubDate>
+      <category>music-tech</category>
+      <link>https://www.musicbusinessworldwide.com/apple-music-launches-ai-transparency-tags-but-only-if-labels-and-distributors-choose-to-declare-them/</link>
+      <enclosure url="https://images.macrumors.com/t/LTzNyr47QeOfMJufIevIfjhQFH8=/1600x0/article-new/2024/08/apple-music.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Lady Gaga's $300 Million Mayhem Ball Is Rewriting the Rules of Pop Longevity</title>
+      <description>&lt;p&gt;There's a specific kind of career move reserved for pop stars in their late thirties: the graceful pivot to "legacy act." Scale back the spectacle. Focus on intimate albums. Maybe do a residency. Lady Gaga, characteristically, has done the opposite. The Mayhem Ball tour — 87 shows across four continents, projected to gross over $300 million — is the biggest, most theatrical production of her career. And it's working.&lt;/p&gt;
+
+&lt;p&gt;The numbers tell one story: highest-grossing pop tour by a female artist in 2025, second-highest overall. A free Copacabana Beach show in Rio that drew an estimated 2.5 million people — a new record for any female artist, anywhere. The North American leg alone pulled in over $103 million from 27 dates. The 2026 extension, running through April 13 at Madison Square Garden, has been received with the same fervor. The New York Times called it &lt;strong&gt;"a deliciously campy extravaganza"&lt;/strong&gt; and said Gaga was "operating at the peak of her powers."&lt;/p&gt;
+
+&lt;p&gt;The album behind it, &lt;em&gt;Mayhem&lt;/em&gt;, has an 84 on Metacritic — her highest-rated release ever. It debuted at number one in 23 countries, moved 219,000 album-equivalent units in its first U.S. week (the largest first-week for a female album in 2025), and became the 9th best-selling album globally that year according to the IFPI. At the 68th Grammys, it won Best Pop Vocal Album; "Abracadabra" took Best Dance Pop Recording; "Die with a Smile" (with Bruno Mars) claimed Best Pop Duo/Group Performance.&lt;/p&gt;
+
+&lt;p&gt;But the cultural story is more interesting than the commercial one. Gaga released &lt;em&gt;Mayhem&lt;/em&gt; into a pop landscape dominated by younger artists — Chappell Roan, Sabrina Carpenter, Charli XCX — who've absorbed her aesthetic DNA and run with it. The conventional wisdom said Gaga's moment had passed, that she'd settled into the respectable-but-quieter lane of jazz standards and Oscar-bait ballads. &lt;em&gt;Mayhem&lt;/em&gt; rejected that script entirely. Rolling Stone's Brittany Spanos &lt;a href='https://www.rollingstone.com/music/music-album-reviews/lady-gaga-mayhem-review-1235291651/'&gt;wrote that it's&lt;/a&gt; "more than just a return to her pop roots" — it's a &lt;strong&gt;refusal to cede territory&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The album's most telling track might be "Perfect Celebrity," which arrives at precisely the moment when newer stars like Chappell Roan are publicly wrestling with fame's toxicity. Gaga has been processing that same subject for fifteen years, and the song functions as both empathy and quiet authority — &lt;em&gt;I've been where you are, and I'm still here&lt;/em&gt;. That kind of intergenerational conversation is rare in pop, where artists are supposed to either reign or recede.&lt;/p&gt;
+
+&lt;p&gt;What Gaga is doing with the Mayhem cycle rewrites the playbook for pop longevity. Instead of the expected arc — youthful peak, graceful decline, nostalgia circuit — she's demonstrated that a pop artist can maintain (and even increase) commercial and cultural relevance 15 years deep, without irony or nostalgia as a crutch. The Mayhem Ball isn't a victory lap. It's a dare: try to keep up.&lt;/p&gt;
+
+&lt;p&gt;The tour wraps in New York next month. By then, it will likely have crossed $300 million. The conversation around what a pop career looks like past 35 will be different because of it.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Mayhem_(Lady_Gaga_album)"&gt;https://en.wikipedia.org/wiki/Mayhem_(Lady_Gaga_album)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.rollingstone.com/music/music-album-reviews/lady-gaga-mayhem-review-1235291651/"&gt;https://www.rollingstone.com/music/music-album-reviews/lady-gaga-mayhem-review-1235291651/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/The_Mayhem_Ball"&gt;https://en.wikipedia.org/wiki/The_Mayhem_Ball&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.ibtimes.com.au/lady-gagas-mayhem-ball-tour-thrills-fans-2026-recent-msg-shows-highlight-gothic-spectacle-1863997"&gt;https://www.ibtimes.com.au/lady-gagas-mayhem-ball-tour-thrills-fans-2026-recent-msg-shows-highlight-gothic-spectacle-1863997&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">00ff63c6-d998-5c01-9e9d-6e16fbe53d59</guid>
+      <pubDate>Sun, 29 Mar 2026 22:53:40 +0000</pubDate>
+      <category>pop-music</category>
+      <link>https://en.wikipedia.org/wiki/Mayhem_(Lady_Gaga_album)</link>
+      <enclosure url="https://upload.wikimedia.org/wikipedia/en/d/db/Lady_Gaga_-_Mayhem.png" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Slayyyter's WOR$T GIRL IN AMERICA Turns Midwest Depression Into Pop's Most Honest Maximalism</title>
+      <description>&lt;p&gt;For years, Slayyyter occupied an awkward position in pop's ecosystem: too polished for the underground, too abrasive for the mainstream, forever labeled an "up-and-comer" approaching 30. She nearly quit. &lt;em&gt;WOR$T GIRL IN AMERICA&lt;/em&gt;, released March 27 on RECORDS/Columbia, sounds like someone who decided that if this was going to be her last album, she might as well say everything.&lt;/p&gt;
+
+&lt;p&gt;The album is 14 tracks of what might be called &lt;strong&gt;confessional maximalism&lt;/strong&gt; — sleazy, loud, punk-inflected pop production layered over lyrics about suicidal ideation, absent fathers, and the specific aimlessness of growing up in the suburbs of St. Louis. In &lt;a href='https://www.thefader.com/2026/03/26/slayyyter-gas-station-brittany-murphy-interview-part-two'&gt;a FADER interview&lt;/a&gt; published the day before release, Slayyyter described carrying "a sadness in my core that is hard to shake sometimes" since childhood, and detailed the autobiographical story behind "Gas Station" — her father abandoned her at one as a young child. "Brittany Murphy," the album closer, is even more direct: she calls it "almost tongue-in-cheek about wanting to die," with lyrics that function as funeral instructions delivered over glittering production.&lt;/p&gt;
+
+&lt;p&gt;This tension — devastating content inside deliberately trashy packaging — is what makes the album culturally interesting beyond its sonic pleasures. Pop has been getting more emotionally raw for a decade now, from Billie Eilish's whispered confessions to Olivia Rodrigo's break-up fury to Chappell Roan's anxiety anthems. But those artists generally match their emotional weight with sonic restraint or earnest delivery. Slayyyter does something different: she buries genuine pain under distorted bass, cheerleader chants, and beats that sound like they were produced in a gas station parking lot at 2 AM. The effect isn't detachment — it's the specific way people who grew up performing toughness actually talk about suffering. Not softly. Loudly, with a joke attached.&lt;/p&gt;
+
+&lt;p&gt;Dazed's March 2026 playlist &lt;a href='https://www.dazeddigital.com/music/article/69983/1/best-new-music-2026-cameron-winter-grace-ives-jackzebra'&gt;highlighted "Unknown Loverz"&lt;/a&gt; as one of the month's essential tracks, calling the broader album "undeniable fun" while noting its hedonistic surface conceals more intimate depths. The album draws on what she describes as Midwest nostalgia — "hanging out with skater boys in high school" — translating a very specific regional American experience into something that scans globally. Every video for all 14 tracks was shot as part of a visual album, giving RECORDS/Columbia's investment a clear major-label ambition that previous Slayyyter projects never had.&lt;/p&gt;
+
+&lt;p&gt;The timing matters too. &lt;em&gt;WOR$T GIRL IN AMERICA&lt;/em&gt; arrives in a pop landscape where &lt;strong&gt;the hyperpop generation is aging into real stakes&lt;/strong&gt;. Slayyyter's peers from the late-2010s SoundCloud-to-Spotify pipeline — 100 gecs, Dorian Electra, the broader PC Music diaspora — are all navigating the same transition: what happens when the kids who made deliberately silly, internet-native music grow up and have adult problems? Some pivoted to respectability. Slayyyter just got louder, and more honest. The album has been called "a pop meteorite" and "a culmination of recent pop music trends." More accurately, it's what happens when someone decides to stop being an up-and-comer and just be an artist — messy past, Midwest sadness, and all.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://www.thefader.com/2026/03/26/slayyyter-gas-station-brittany-murphy-interview-part-two"&gt;https://www.thefader.com/2026/03/26/slayyyter-gas-station-brittany-murphy-interview-part-two&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.dazeddigital.com/music/article/69983/1/best-new-music-2026-cameron-winter-grace-ives-jackzebra"&gt;https://www.dazeddigital.com/music/article/69983/1/best-new-music-2026-cameron-winter-grace-ives-jackzebra&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://culted.com/xo/xo-culture/slayyyter-told-us-what-it-actually-means-to-be-the-worst-girl-in-america/"&gt;https://culted.com/xo/xo-culture/slayyyter-told-us-what-it-actually-means-to-be-the-worst-girl-in-america/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://en.wikipedia.org/wiki/Worst_Girl_in_America"&gt;https://en.wikipedia.org/wiki/Worst_Girl_in_America&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">ae0c15c1-a93a-541f-8f7e-4f431b59a210</guid>
+      <pubDate>Sun, 29 Mar 2026 22:54:11 +0000</pubDate>
+      <category>pop-music</category>
+      <link>https://www.thefader.com/2026/03/26/slayyyter-gas-station-brittany-murphy-interview-part-two</link>
+      <enclosure url="https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_530,w_1019,x_5,y_99,f_auto,q_auto:eco/slayyyter_thefader_e_color_2_fgktvm/slayyyter_thefader_e_color_2_fgktvm.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Corsica Studios Closes After 24 Years, Ending a Chapter in London's Underground</title>
+      <description>&lt;p&gt;Corsica Studios held its 28-hour Grand Finale this weekend, and with it London's underground electronic music scene lost one of its most architecturally honest spaces. The Elephant &amp;amp; Castle railway-arch venue — founded in 2002 by Amanda Moss and Adrian Jones — closes not because it ran out of audiences or relevance, but because the land around it is being redeveloped, and the attendant noise complaints and lease uncertainty made continued operation untenable.&lt;/p&gt;
+
+&lt;p&gt;That distinction matters. Corsica wasn't a victim of declining interest in club culture; it was squeezed out by the same property dynamics that have systematically dismantled a generation of London venues — Dance Tunnel gone, Plastic People gone, Fabric briefly on the edge. What Corsica had in common with those rooms was a refusal to smooth over the rough edges. The concrete floors, exposed brickwork, and deliberately unfinished interior weren't aesthetic choices so much as statements about what the space prioritized: sound over spectacle, community over footfall targets.&lt;/p&gt;
+
+&lt;p&gt;Resident Advisor published a major oral history on March 26, assembled by Emma Warren with 35 contributors, and it reads as both a document and an elegy. What comes through is how much the two-room layout shaped the programming culture: Room 2 was where labels like Hyperdub ran experiments, where dubstep and grime and UK funky found room to breathe before those genres had mainstream vocabularies. Kode9's residency there was formative in ways that shaped not just Hyperdub's identity but what the label thought it was trying to do. The Closing Series that ran from January through this final weekend made the archive explicit: Four Tet and Joy Orbison, Skream and Benga, The Last Hyperdub Show (March 26), Rupture (March 27) — a deliberate historical accounting of the communities the room had housed.&lt;/p&gt;
+
+&lt;p&gt;The Final Hyperdub night deserves its own note. Kode9, Cooly G, Ikonika, Scratcha DVA, and Burial collaborator Elija B Void were among those playing. It was a rare instance of a label using its own history not as nostalgia product but as genuine reckoning — an acknowledgment that much of what Hyperdub became was shaped by what that specific room allowed them to do. Sound in a concrete arch behaves differently than in a purpose-built club; the low-end response in Room 1 in particular was tuned over two decades to suit a particular approach to bass-heavy music. That institutional knowledge is now dispersed.&lt;/p&gt;
+
+&lt;p&gt;The closure also arrives at a strange moment in London's relationship with underground club culture more broadly. Festival fatigue is real, and the last two years have seen a measurable return of serious dance music energy to smaller, more intentional venues. Corsica was the template for that kind of space — the anti-superclub with no VIP section, no dress code enforcement, a door policy built around keeping out aggression rather than maintaining a brand image. Several newer venues have modeled themselves explicitly on what it represented.&lt;/p&gt;
+
+&lt;p&gt;Moss and Jones have indicated they want to reopen in a new, soundproofed space with a long-term lease and legal protections built in from the start — working with Southwark Council, the GLA, and the Music Venue Trust. The bones of an intention are there. Whether that translates into an actual room with the same culture is the harder question; scenes don't transfer wholesale to new postcodes, and much of what made Corsica work was accumulated social capital that took a decade to build.&lt;/p&gt;
+
+&lt;p&gt;For now, the fact of its closing is worth sitting with before pivoting to whatever comes next. Twenty-four years is a long time for any cultural institution, particularly one that operated at this level of independence and with this degree of genuine influence on the UK's electronic music landscape. The room shaped how artists and labels thought about what the music was for. That's not a common thing to say about a venue, and it's the right thing to say about this one.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://ra.co/features/4496"&gt;https://ra.co/features/4496&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://ra.co/news/84453"&gt;https://ra.co/news/84453&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.nme.com/news/music/londons-iconic-corsica-studios-confirm-2026-closure-and-final-events-and-share-hope-for-new-venue-3896839"&gt;https://www.nme.com/news/music/londons-iconic-corsica-studios-confirm-2026-closure-and-final-events-and-share-hope-for-new-venue-3896839&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">597e7712-53f6-55c0-91a1-3f318c3ccccc</guid>
+      <pubDate>Sun, 29 Mar 2026 22:56:04 +0000</pubDate>
+      <category>indie-electronic</category>
+      <link>https://ra.co/features/4496</link>
+      <enclosure url="https://static.ra.co/images/features/2027/corisca-head-reg-010.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>ADULT. Turn Political Disillusionment Into Their Most Focused Electropunk Yet on Kissing Luck Goodbye</title>
+      <description>&lt;p&gt;The Detroit duo ADULT. — Nicola Kuperus and Adam Lee Miller — have been making electropunk records for 25 years, long enough that the term has accumulated stylistic baggage they've usually managed to sidestep. Their tenth studio album, &lt;em&gt;Kissing Luck Goodbye&lt;/em&gt;, released March 27 on Dais Records, is their clearest statement in some time: ten tracks, no padding, no ambient interludes softening the blows. Produced with Nolan Gray (who also co-produced their last record), the approach here is notably more direct — louder, more compressed, Kuperus's vocals pushed further to the front of the mix.&lt;/p&gt;&lt;p&gt;The sonic approach has always been the duo's most identifiable trait: drum machines at post-industrial tempos, synth lines that operate as rhythm instruments as much as melodic ones, and vocals that land somewhere between singing and declaration. What shifts on &lt;em&gt;Kissing Luck Goodbye&lt;/em&gt; is the ratio of dancefloor utility to sonic abrasion. Tracks like R U 4 $ALE and Freaks have warehouse-ready kick patterns underneath cut-up vocals and game-show samples — they would work in a DJ set while remaining unmistakably ADULT. records. No Song goes the other direction: machinelike, near-monolithic, the most overtly industrial thing they've recorded in recent years, with a layering strategy that prioritizes texture accumulation over melodic resolution.&lt;/p&gt;&lt;p&gt;The album is dedicated to Douglas McCarthy of Nitzer Ebb, and that lineage sits near the surface throughout. But the comparison isn't reductive: where Nitzer Ebb's aggression was physical and quasi-militarist, ADULT.'s has always been queasy and ironic, using the forms of power electronics and synth-punk to document powerlessness rather than perform strength. The political disillusionment that runs through the lyrics isn't the kind that resolves into rallying cries — it's the kind that produces laughter, and laughter as a response to the absurd is the album's consistent emotional register. Destroyers, the four-and-a-half-minute closer, sits with grim endurance rather than any cathartic peak.&lt;/p&gt;&lt;p&gt;That choice to not provide release — to maintain tension rather than resolve it into a breakdown or triumphant refrain — separates the record from contemporary electro-punk that uses the same reference points. The Wax Trax\! adjacency is real, and reviewers have noted Public Image Ltd and Siouxsie and the Banshees as touchstones, but &lt;em&gt;Kissing Luck Goodbye&lt;/em&gt; doesn't feel like catalog retrieval. The production has been updated without being overproduced: the low-end is cleaner than earlier ADULT. records without losing the deliberate roughness in the midrange where most of the textural action happens.&lt;/p&gt;&lt;p&gt;What works best about the album is how it deploys track length as a variable rather than a constant. Most of the ten tracks run between two and four minutes, keeping the record from overstaying its welcome, but a few push into territory where repetition becomes the point — where the loop doesn't resolve because the thing it's describing doesn't resolve. That's a harder structural choice than it looks, and the fact that it mostly works testifies to how well Kuperus and Miller understand what their music is actually doing versus what it superficially resembles.&lt;/p&gt;&lt;p&gt;The vinyl is limited to 700 copies. For listeners who know ADULT.'s catalog, this is the record where accumulated pressure finds its most coherent form. For newcomers: a good entry point precisely because it's so confident in what it is. No experimental detours, no genre-testing moments. Just a very good electropunk album made by people who've spent a long time figuring out exactly what that means.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://adultmusic.bandcamp.com/album/kissing-luck-goodbye-2"&gt;https://adultmusic.bandcamp.com/album/kissing-luck-goodbye-2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://boomkat.com/products/kissing-luck-goodbye"&gt;https://boomkat.com/products/kissing-luck-goodbye&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.musicconnection.com/album-review-of-kissing-luck-goodbye-by-adult-8-10/"&gt;https://www.musicconnection.com/album-review-of-kissing-luck-goodbye-by-adult-8-10/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">f617d010-7222-5d11-a4c3-88611fc4883c</guid>
+      <pubDate>Sun, 29 Mar 2026 22:56:43 +0000</pubDate>
+      <category>indie-electronic</category>
+      <link>https://adultmusic.bandcamp.com/album/kissing-luck-goodbye-2</link>
+      <enclosure url="https://f4.bcbits.com/img/a1012560276_5.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Dave Huismans Deepens the ex_libris Narrative With an Unhurried Third Release</title>
+      <description>&lt;p&gt;Dutch producer Dave Huismans re-emerged in June 2025 after roughly seven years of near-silence under his ex_libris alias, and with his third release in the series — dropped March 27, once again through Rush Hour distribution — the project's logic is becoming clearer. ex_libris 003 is a three-track 12-inch (25 minutes total) that operates with the same unhurried intentionality as its predecessors: hand-stamped vinyl, custom-printed colored sleeve, limited to the point of selling out almost immediately.&lt;/p&gt;&lt;p&gt;Listeners who followed Huismans as 2562 (Tectonic, then eventually his own Cosmic Bridge label) or as A Made Up Sound (Clone, Delsin) will recognize the lineage but not find a simple retrieval of those approaches. His earlier 2562 work was rooted in the dubstep-adjacent strain of bass music that dominated the UK in the late 2000s — heavy low-end, halftime rhythms, a specific attention to spatial depth that came directly from how that music was mixed for large PA systems. A Made Up Sound pushed into more abstract leftfield techno territory. ex_libris draws on both, but the tempo has slowed and the architecture is more patient.&lt;/p&gt;&lt;p&gt;The A-side, #6-27 (untangled), runs over ten minutes and is described by Boomkat as a rough-around-the-edges, spirited 4/4 beatdown epic — which undersells how much structural work is happening in that runtime. The track doesn't fill its length with variation for variation's sake; it's closer to a study in accumulation, where each element that's added or subtracted from the mix changes the pressure dynamics of the whole. The kick pattern stays close to deep house convention but the surrounding textures are drier and more abrasive, which creates a persistent low-level friction that keeps the track from sitting comfortably in any single genre pocket.&lt;/p&gt;&lt;p&gt;The B-side tracks — #7 (cosmic ripples) at 9:25 and #31 (reprise) at just under five minutes — move into what the same reviewers have called ambient-dub dematerialisation, which is useful shorthand for the way Huismans uses reverb and filter decay not as atmosphere-generators but as structural tools. The decay time on individual elements is calibrated to keep the room sounding active even when the density drops; what you're left with is something that has the spatial qualities of a well-designed listening experience but retains enough rhythmic residue to feel tethered to club context. #31 (reprise) functions as a coda, paring back to near-nothing over five minutes in a way that makes the preceding material feel denser in retrospect.&lt;/p&gt;&lt;p&gt;The numbering system across all three releases — tracks titled with numbers from what appears to be a larger archive — suggests that Huismans is treating ex_libris as a selective publication project rather than a conventional release schedule: pulling finished pieces from a body of work and issuing them when they cohere into a sequence. Whether that framing is literal or just good mythology is hard to say, but it aligns with how the music actually sounds — deliberately curated rather than goal-directed, as if the priority is internal coherence rather than market timing.&lt;/p&gt;&lt;p&gt;The vinyl is sold out, digital available. For producers working in leftfield house and dub techno, ex_libris 003 is the kind of record that rewards close attention to how the mix decisions function rather than how the tracks flow. Huismans has always been a producer's producer in that sense — his work is better understood as an argument about what these genres could prioritize than as an accessible entry into them. This is not a criticism. It's why the series matters.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://amadeupsound.bandcamp.com/album/ex-libris-003"&gt;https://amadeupsound.bandcamp.com/album/ex-libris-003&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://boomkat.com/products/ex_libris-003"&gt;https://boomkat.com/products/ex_libris-003&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://ra.co/news/82903"&gt;https://ra.co/news/82903&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">f74d08e7-e7d6-5007-a21a-e2319bc27a93</guid>
+      <pubDate>Sun, 29 Mar 2026 22:57:12 +0000</pubDate>
+      <category>indie-electronic</category>
+      <link>https://amadeupsound.bandcamp.com/album/ex-libris-003</link>
+      <enclosure url="https://f4.bcbits.com/img/a1052503854_5.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
