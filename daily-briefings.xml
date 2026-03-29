@@ -4,7 +4,7 @@
     <title>Wynn's Daily Briefings</title>
     <description>Daily briefings on AI, world news, music, and NYC life</description>
     <link>https://WynnCJF.github.io/cc-deepfeed/daily-briefings.xml</link>
-    <lastBuildDate>Sun, 29 Mar 2026 00:57:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 13:58:37 +0000</lastBuildDate>
     <generator>cc-deepfeed</generator>
     <ns0:link rel="hub" href="https://pubsubhubbub.appspot.com" />
     <ns0:link rel="self" href="https://WynnCJF.github.io/cc-deepfeed/daily-briefings.xml" type="application/rss+xml" />
@@ -238,6 +238,225 @@
       <category>indie-electronic</category>
       <link>https://www.beatportal.com/articles/1322114-eight-emerging-artists-on-our-radar-march-2026</link>
       <enclosure url="https://assets.beatportal.com/images/transforms/content-item/_1200x630_crop_center-center_none/ON-OUR-RADAR_beatportal-March-2026.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Suno v5.5 Lets You Sing Your Own AI Songs — and That's the Point</title>
+      <description>&lt;p&gt;Three days after Google launched Lyria 3 Pro, Suno fired back with &lt;strong&gt;v5.5&lt;/strong&gt; — and instead of competing on raw audio quality, it went all-in on personalization. The update, released March 26, introduces three features that shift AI music generation from "make me a song" to "make me &lt;em&gt;my&lt;/em&gt; song."&lt;/p&gt;
+
+&lt;p&gt;The headline feature is &lt;strong&gt;Voices&lt;/strong&gt;, the most-requested addition from Suno's community. Pro and Premier subscribers can now record themselves singing or upload existing vocal clips, and the system will generate music using their actual voice. There's a verification step — Suno asks you to speak a random phrase, then matches it against your singing voice to confirm identity. Once created, your voice stays private. Only you can use it. Suno says sharing will come later, but it will always remain opt-in.&lt;/p&gt;
+
+&lt;p&gt;The second addition, &lt;strong&gt;Custom Models&lt;/strong&gt;, is arguably more interesting for working musicians. Upload at least six tracks from your own catalog, and Suno builds a personalized version of v5.5 that understands your compositional style — your harmonic tendencies, your arrangement preferences, your production aesthetic. Pro and Premier subscribers get up to three custom models. Think of it less as "AI writes a song" and more as "AI that has internalized your musical DNA helps you sketch ideas faster."&lt;/p&gt;
+
+&lt;p&gt;The third feature, &lt;strong&gt;My Taste&lt;/strong&gt;, is available to all users. It passively tracks which genres, moods, and prompts you gravitate toward and uses that context to improve suggestions when you hit the magic wand button. It's Spotify's recommendation engine logic applied to music creation.&lt;/p&gt;
+
+&lt;p&gt;The strategic timing here is unmistakable. Suno hit 2 million paid subscribers and $300 million in annual recurring revenue as of February. CEO Mikey Shulman framed v5.5 explicitly as groundwork: "The capabilities we're putting in place today — voice fidelity, personalized sound, custom models — lay the foundation for the next generation of music models we're launching with the music industry later this year." That last part refers to Suno's licensing deal with Warner Music Group, signed in November 2025. The plan is a subscription service built on fully licensed music — a sharp pivot from the company that's still being sued by UMG and Sony for unauthorized training.&lt;/p&gt;
+
+&lt;p&gt;This is where v5.5 gets strategic beyond the feature set. Every feature in this release reinforces the narrative that Suno is a tool &lt;em&gt;for&lt;/em&gt; human musicians, not a replacement. Voices requires your actual voice. Custom Models require your actual music. My Taste requires your actual preferences. It's all designed to make the "AI is stealing from artists" argument harder to sustain — or at least to build goodwill before the licensed models launch later this year.&lt;/p&gt;
+
+&lt;p&gt;Whether it works as a peace offering depends on the lawsuits. UMG's case against Suno, with its fair use ruling expected this summer, could reshape the entire legal landscape regardless of what features Suno adds. But as a product, v5.5 represents the clearest vision yet of where consumer AI music tools are heading: away from generic generation, toward personalized creative assistance that sounds like you because it literally learned from you.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://suno.com/blog/v5-5"&gt;https://suno.com/blog/v5-5&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://musically.com/2026/03/27/suno-adds-voices-with-label-enabled-future-models-in-mind/"&gt;https://musically.com/2026/03/27/suno-adds-voices-with-label-enabled-future-models-in-mind/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/"&gt;https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">c34275f4-43e8-51f1-a01f-59f69e1d895a</guid>
+      <pubDate>Sun, 29 Mar 2026 13:56:28 +0000</pubDate>
+      <category>music-tech</category>
+      <link>https://suno.com/blog/v5-5</link>
+      <enclosure url="https://www.datocms-assets.com/117789/1774532259-suno_v5-5_bloginnerbanner.png" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Spotify Paid Out $11 Billion in 2025 — Here's Who Actually Benefited</title>
+      <description>&lt;p&gt;Spotify's annual &lt;a href="https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/"&gt;Loud &amp;amp; Clear&lt;/a&gt; report dropped on March 11, and the headline number is staggering: &lt;strong&gt;\$11 billion paid to the music industry in 2025&lt;/strong&gt;, up more than 10% from 2024. It's the largest annual payout from any music retailer in history, and it brings Spotify's all-time total to nearly \$70 billion. But the more interesting story is in the distribution — who's getting that money, and how the economics are shifting underneath.&lt;/p&gt;
+
+&lt;p&gt;The numbers that jump out: 13,800 artists now earn over \$100,000 annually from Spotify alone, up roughly 1,400 from the prior year. More than 1,500 artists clear \$1 million. The top 80 artists each earned over \$10 million — a threshold that, a decade ago, only the single top-earning artist could reach. And at the long tail, the 100,000th-ranked artist earned \$7,300 in 2025, up from about \$350 in 2015. That's a 20x increase, though \$7,300 is still nowhere near a living.&lt;/p&gt;
+
+&lt;p&gt;The independent artist story is the one Spotify most wants to tell. Roughly half of all royalties now flow to independent artists and labels. More than a third of artists earning \$10,000 or more are DIY or started that way. Over 1,600 artists who were once featured on Spotify's Fresh Finds playlists now earn \$100,000 annually. The global picture is similarly encouraging: artists earning \$500,000+ now come from 75 countries (up from 66), and 16 languages appeared in the Global Top 50.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img src="https://storage.googleapis.com/pr-newsroom-wp/1/2026/03/LC-FTR-2026-131234234.png" alt="Spotify Loud and Clear 2026 report header" style="max-width:100%;height:auto;" /&gt;&lt;figcaption&gt;Spotify's 2026 Loud &amp;amp; Clear report highlights growing artist earnings&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;But the structural changes matter more than the top-line growth. Spotify's user-centric payout model — where each subscriber's fee goes to the artists they actually listen to, rather than being pooled across the entire platform — has been rolling out in select markets. Early results from France and Germany showed a 14% increase in indie artist earnings compared to the old pro-rata system. A 2020 UK trial found niche artists earned 2.5x more per stream under user-centric accounting. For anyone making music outside mainstream pop, this is the most consequential change to streaming economics since streaming itself.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, Spotify's 2024 minimum stream threshold — 1,000 streams in the prior 12 months to generate any royalties — continues to redirect micropayments away from inactive or spam accounts. The platform is also extending the minimum track length for functional noise recordings (white noise, rain sounds) to two minutes, targeting another category of royalty-draining content. Both moves are designed to funnel more money toward artists who actually have listeners.&lt;/p&gt;
+
+&lt;p&gt;Head of Music Charlie Hellman outlined Spotify's 2026 priorities: a new SongDNA feature that lets fans explore song collaborations and discover connected artists, enhanced verification to combat AI-generated impersonation, expanded editorial playlist tools, and deeper live show integration to help convert streams into ticket sales — Spotify says it already helped generate over \$1 billion in concert ticket purchases.&lt;/p&gt;
+
+&lt;p&gt;The uncomfortable truth remains: \$0.004 per stream means you need 250,000 plays to earn \$1,000. Spotify's answer is that user-centric payouts and anti-gaming measures will gradually improve per-stream rates for real artists. Whether that improvement is fast enough — or big enough — to matter for the vast middle class of working musicians is the question this report doesn't quite answer.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/"&gt;https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/"&gt;https://newsroom.spotify.com/2026-01-28/2025-music-industry-payouts-whats-next-for-artists/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://lastplaydistro.com/blog/spotify-royalty-changes-2026-why-independent-artists-are-earning-less-and-what-to-do-now"&gt;https://lastplaydistro.com/blog/spotify-royalty-changes-2026-why-independent-artists-are-earning-less-and-what-to-do-now&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">4aee493f-742a-5803-8df4-16b9401c6cb6</guid>
+      <pubDate>Sun, 29 Mar 2026 13:56:57 +0000</pubDate>
+      <category>music-tech</category>
+      <link>https://newsroom.spotify.com/2026-03-11/loud-and-clear-music-economics-highlights/</link>
+      <enclosure url="https://storage.googleapis.com/pr-newsroom-wp/1/2026/03/LC-FTR-2026-131234234.png" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Charli XCX Killed Brat — And 'The Moment' Shows Why She Had To</title>
+      <description>&lt;p&gt;At the Berlinale in February, Charli xcx did what few pop artists manage with any grace: she buried her own phenomenon. "Brat is over. Full stop," she told a packed press room at Zoo Palast, where her mockumentary &lt;em&gt;The Moment&lt;/em&gt; had just premiered to a room overflowing with journalists. Two years after a lime-green album cover became a presidential campaign aesthetic, a Cash App card, and Collins Dictionary's word of the year, the artist who birthed it all was the one to pull the plug.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The Moment&lt;/em&gt;, directed by Aidan Zamiri, is the vehicle for this exorcism. Charli plays a version of herself — a pop star whose creative labor gets swallowed by the cultural machine. The mockumentary premiered at Sundance in January before landing at Berlin's Panorama section, and the reviews have been tellingly divided. Owen Gleiberman at Variety called it "muddled" and "more fan service than funny." The Guardian's Adrian Horton praised the cinematography and Cook's score but found the satire "defanged." Others saw something darker and more honest — a depiction of what happens when an artist's identity becomes public property that "takes on a haunting tone when you realise how many artists have lived through this."&lt;/p&gt;
+
+&lt;p&gt;That split in critical response is actually the point. &lt;strong&gt;The Moment&lt;/strong&gt; isn't trying to be a great film in the conventional sense. It's trying to dramatize the specific alienation of watching your creative output get absorbed, remixed, flattened, and sold back to you. The Brat phenomenon was a case study in this: what started as Charli's messy, hedonistic, self-aware pop record became an aesthetic template, a meme format, a marketing deck, and a political brand — each iteration multiplying reach while stripping complexity. By summer 2024, "brat" meant something to millions of people who had never heard "360" or "Von Dutch."&lt;/p&gt;
+
+&lt;p&gt;The A24 connection is telling. Charli didn't make this with a major studio or a Netflix deal — she went to the studio most associated with auteur-driven, mid-budget filmmaking. The mockumentary format itself is a deliberate choice: it lets her inhabit the absurdity of celebrity culture while maintaining plausible deniability about what's autobiography and what's satire. Alexander Skarsgard co-stars, and the supporting cast has drawn more praise than Charli's own performance — which, again, might be the point. The artist at the center of a cultural moment is often the least interesting character in it.&lt;/p&gt;
+
+&lt;p&gt;Charli's decision to end the Brat era now, rather than riding it through another album cycle, is the most interesting creative choice here. The commercial logic says you keep going until the well runs dry. But the Brat lifecycle showed her exactly how cultural moments work: they don't fade — they get hollowed out. The Kamala Harris campaign adopting "brat" energy was the apex and the beginning of the end simultaneously. Once your aesthetic becomes bipartisan marketing collateral, what's left to subvert?&lt;/p&gt;
+
+&lt;p&gt;What comes next is genuinely uncertain, and that's rare for a pop artist at this level. Charli has said she wants to move in a completely new direction, though she hasn't specified what that looks like. The Moment, for all its mixed reviews, functions as a kind of creative palate cleanser — a way of processing the Brat experience before moving past it. Whether the film is good matters less than what it represents: an artist choosing to end a profitable era on her own terms, while it still means something, rather than waiting for the culture to do it for her.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://www.nylon.com/entertainment/charli-xcx-brat-era-over-2026"&gt;https://www.nylon.com/entertainment/charli-xcx-brat-era-over-2026&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://variety.com/2026/film/reviews/the-moment-review-charli-xcx-alexander-skarsgard-1236639576/"&gt;https://variety.com/2026/film/reviews/the-moment-review-charli-xcx-alexander-skarsgard-1236639576/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.hollywoodreporter.com/movies/movie-news/charli-xcx-brat-berlin-film-festival-moment-politics-zamiri-1236505576/"&gt;https://www.hollywoodreporter.com/movies/movie-news/charli-xcx-brat-berlin-film-festival-moment-politics-zamiri-1236505576/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.hollywoodreporter.com/music/music-news/charli-xcx-brat-one-year-anniversary-pop-culture-impact-1236256119/"&gt;https://www.hollywoodreporter.com/music/music-news/charli-xcx-brat-one-year-anniversary-pop-culture-impact-1236256119/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">cf6840fa-b91e-5d14-b2c2-9f274f596d1d</guid>
+      <pubDate>Sun, 29 Mar 2026 13:57:27 +0000</pubDate>
+      <category>pop-music</category>
+      <link>https://www.nylon.com/entertainment/charli-xcx-brat-era-over-2026</link>
+      <enclosure url="https://source-of-everything.com/wp-content/uploads/2026/02/fb3dfa1b-9220-48fb-804b-dd32d84e228a.png" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Avalon Emerson Completes Her Transformation on Written Into Changes</title>
+      <description>&lt;p&gt;When Avalon Emerson released &lt;em&gt;&amp;amp; the Charm&lt;/em&gt; in 2023, it announced a decisive break from her reputation as a cerebral techno DJ. &lt;strong&gt;Written Into Changes&lt;/strong&gt;, her second album under the Avalon Emerson &amp;amp; the Charm name (Dead Oceans, March 20), completes that pivot — and the critical consensus suggests she's pulled it off, even if the results are more complicated than a simple triumph narrative.&lt;/p&gt;
+
+&lt;p&gt;The album was produced alongside Bullion and Rostam Batmanglij, a pairing that telegraphs its ambitions clearly. The sound sits in a zone between '80s dream pop, Balearic alt-dance, and synth-inflected indie rock: lilting melodies over smouldering guitar lines, all suspended in a warm haze of synths. Emerson's voice — a gentle, airy alto — sounds more confident and settled than on the debut, less like a DJ testing her vocal range and more like a songwriter who has found her register.&lt;/p&gt;
+
+&lt;p&gt;The Line of Best Fit gave it an 8/10, with reviewer Tobias Furlong declaring "there should be no lingering doubt that Avalon Emerson has fully arrived." He singles out the title track for its "playful synth lines" and praises "Earth Alive," the closer, for pioneering what he calls "twee-tronica" with its orchestral string arrangements. Clash Magazine notes the album's cohesion across varied sonic territories, crediting Emerson's DJ background with maintaining a "hypnotic" continuity — she sequences the record with a setbuilder's instinct for flow.&lt;/p&gt;
+
+&lt;p&gt;But the RA review from Vrinda Jagota offers a sharper assessment. While acknowledging the album as "self-assured," Jagota finds the ten tracks "cavernous and melodic but often less affecting than Emerson's other output." The pop-forward moments — "Jupiter and Mars," co-written with Rostam — aim for anthemic impact without quite landing there. The songs are "perfectly pleasant but never surprising." The most captivating moment, Jagota argues, is the title track itself, where Emerson allows herself to be genuinely experimental rather than settling into polished proficiency.&lt;/p&gt;
+
+&lt;p&gt;That tension — between craft and risk, between pleasant and surprising — is the interesting thing about this record. Emerson relocated from Berlin to Upstate New York, married her partner Hunter (who inspired several tracks including "Eden" and "Country Mouse"), and found domestic stability. The album reflects that contentment honestly. Whether that emotional register translates into compelling listening on every track is the open question. "Wooden Star" pivots toward darker, industrial textures with chimes and strings; "How Dare This Beer" shows a Stephin Merritt-like wit. The range is real, even when the peaks are unevenly distributed.&lt;/p&gt;
+
+&lt;p&gt;For anyone tracking Emerson's arc from Whities 12-inches and Berghain sets to Dead Oceans dream pop, &lt;em&gt;Written Into Changes&lt;/em&gt; confirms the transformation is permanent. She is not going back to the booth. The question now is whether her songwriting can develop the unpredictability her DJ sets always had.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://ra.co/reviews/36341"&gt;https://ra.co/reviews/36341&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.thelineofbestfit.com/albums/avalon-emerson-and-the-charm-written-into-changes-tear-up-dance-pop-rule-book"&gt;https://www.thelineofbestfit.com/albums/avalon-emerson-and-the-charm-written-into-changes-tear-up-dance-pop-rule-book&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.clashmusic.com/reviews/avalon-emerson-the-charm-written-into-changes/"&gt;https://www.clashmusic.com/reviews/avalon-emerson-the-charm-written-into-changes/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">c4ec81cc-25e7-5881-b81f-53069ecb046b</guid>
+      <pubDate>Sun, 29 Mar 2026 13:57:40 +0000</pubDate>
+      <category>indie-electronic</category>
+      <link>https://ra.co/reviews/36341</link>
+      <enclosure url="https://f4.bcbits.com/img/a1618126531_10.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Kendrick Lamar Is Now the Most Grammy-Decorated Rapper Alive — And He Used the Stage to Say Something</title>
+      <description>&lt;p&gt;On February 1, Kendrick Lamar walked into the 68th Grammy Awards and walked out with five trophies, bringing his career total to 27 and making him the most awarded rapper in Grammy history — surpassing Jay-Z's record of 25. The wins spanned categories: Best Rap Album for &lt;em&gt;GNX&lt;/em&gt;, Record of the Year for "Luther" (with SZA), and three others. It was the kind of night that redraws the map of hip-hop's institutional standing.&lt;/p&gt;
+
+&lt;p&gt;Start with the numbers. "Luther," the SZA collaboration that samples and channels the late Luther Vandross, spent 13 weeks at number one on the Billboard Hot 100 and accumulated 1.3 billion domestic streams — making it the most successful song of the 2025-2026 period by a wide margin. &lt;strong&gt;GNX&lt;/strong&gt;, released as a surprise drop in November 2024, won Best Rap Album against a field that included several more commercially hyped releases. And the big one: Record of the Year, a category that hip-hop has historically struggled to penetrate, went to a track built on soul sampling and West Coast production.&lt;/p&gt;
+
+&lt;p&gt;But what made the night culturally significant wasn't just the trophy count. It was the timing. Lamar's dominance came during a ceremony where Bad Bunny took Album of the Year for &lt;em&gt;Debi Tirar Mas Fotos&lt;/em&gt; — a night where non-English-language, non-white artists occupied the most prestigious categories in ways that would have been unthinkable a decade ago. And it arrived at a political moment when DEI initiatives and Black cultural narratives are under direct federal pressure. Kendrick didn't ignore this. His acceptance speeches emphasized hip-hop as a communal art form, centering the culture that made him rather than his individual achievement.&lt;/p&gt;
+
+&lt;p&gt;The GNX album itself is worth revisiting in this context. Named after the Buick Grand National GNX — a car that's essentially a totem of West Coast Black culture, a symbol of sleek power — the album is a deliberate homecoming. After years of increasingly experimental and conceptually ambitious work (Mr. Morale &amp; The Big Steppers was a therapy-session-as-album), GNX is an ode to Los Angeles. Classic G-funk production, features from Roddy Ricch and the regional Mexican artist Deyra Barrera, and a lyrical focus on place and community. It's Kendrick's most accessible album in years, and that accessibility feels like a strategic choice: this is music that wants to remind a broad audience what West Coast hip-hop sounds like at its sharpest.&lt;/p&gt;
+
+&lt;p&gt;The Deyra Barrera feature is a small but telling detail. Regional Mexican music has been one of the fastest-growing genres in the US, and Kendrick's decision to bring it into a rap album rather than treating it as a novelty collab reflects the genuine cultural cross-pollination happening in LA right now. It's the kind of move that doesn't get a headline but tells you where pop music's center of gravity is shifting.&lt;/p&gt;
+
+&lt;p&gt;There's also the matter of Kendrick's post-TDE, post-Aftermath independence. GNX is a PGLang/Interscope release — his own infrastructure. The fact that his most commercially and critically successful period is happening outside the traditional major-label machinery says something about where leverage sits in hip-hop right now. Kendrick doesn't need a superproducer or a legacy label co-sign. He needs SZA, a Luther Vandross sample, and a Buick.&lt;/p&gt;
+
+&lt;p&gt;The Grammy record is nice. What matters more is that Kendrick used the biggest stage in music to argue, implicitly and explicitly, that lyricism and cultural specificity still win — that you don't have to sand down your references or translate your context for a global audience. The audience will come to you. Given everything happening in American culture right now, that's not just an artistic statement. It's a political one.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://variety.com/2026/music/news/kendrick-lamar-breaks-grammys-record-most-awarded-rapper-1236642301/"&gt;https://variety.com/2026/music/news/kendrick-lamar-breaks-grammys-record-most-awarded-rapper-1236642301/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://source-of-everything.com/kendrick-lamars-dominance-why-gnx-and-luther-are-2026s-biggest-statements/"&gt;https://source-of-everything.com/kendrick-lamars-dominance-why-gnx-and-luther-are-2026s-biggest-statements/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.grammy.com/news/2026-grammys-best-acceptance-speeches"&gt;https://www.grammy.com/news/2026-grammys-best-acceptance-speeches&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.washingtoninformer.com/kendrick-lamar-grammy-milestone/"&gt;https://www.washingtoninformer.com/kendrick-lamar-grammy-milestone/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">cd002630-a78f-55d7-9ea4-3cf132202cad</guid>
+      <pubDate>Sun, 29 Mar 2026 13:58:00 +0000</pubDate>
+      <category>pop-music</category>
+      <link>https://variety.com/2026/music/news/kendrick-lamar-breaks-grammys-record-most-awarded-rapper-1236642301/</link>
+      <enclosure url="https://source-of-everything.com/wp-content/uploads/2026/02/fb3dfa1b-9220-48fb-804b-dd32d84e228a.png" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Nicolas Remondino's Hieratico Turns Percussion Into a Language of Texture and Shadow</title>
+      <description>&lt;p&gt;If you think of drums primarily as timekeepers, &lt;strong&gt;Hìeratico&lt;/strong&gt; will recalibrate your assumptions. Italian percussionist and sound artist Nicolas Remondino's new album (OOH-sounds, March 27) treats prepared drums as lucid textural instruments — tools for evoking the material properties of stone, wood, bark, rain, and metal. The result is a 12-track collection that sounds like nothing else released this month: night-tuned, crepuscular, and almost tactile in its specificity.&lt;/p&gt;
+
+&lt;p&gt;Remondino describes the title — which translates to "hieratic" — as a "black and gold" term, loaded with dualities. That duality runs through every track. The album operates in the space between rhythm and atmosphere, between acoustic performance and electronic processing. It was initially recorded at Giuseppe Ielasi's Milan studio (Ielasi also mixed and mastered), and Remondino then assembled a remarkable cast of collaborators to flesh out the pieces: Limpe Fuchs, Pierre Bastien, Roberto Musci, Massimo Silverio, Marco Baldini, Adele Altro, Natalia Rogantini, Jonas Torstensen, and the Dròlo Ensemble with Vipera.&lt;/p&gt;
+
+&lt;p&gt;That list alone tells you something about the world this record inhabits. Limpe Fuchs, now in her eighties, has been building and playing self-made instruments since the 1960s; Pierre Bastien constructs mechanical music machines from Meccano parts; Roberto Musci is a pioneer of ethno-electronic collage who has been sampling field recordings from across Asia and Africa since the early '80s. These are artists who treat sound as a material practice, not an abstract compositional exercise. Their presence shapes Hìeratico toward a distinctly European tradition of experimental percussion music that connects to AMM, the Italian improvisation scene, and early industrial music's interest in found materials — but filtered through a sensibility that's more contemplative than confrontational.&lt;/p&gt;
+
+&lt;p&gt;"Blue Hymne" with Limpe Fuchs is built around the interaction between Remondino's prepared drums and her handmade instruments, producing tones that hover between organic and metallic. "Tombal," featuring Bastien, Silverio, and Baldini, is the longest piece at nearly six minutes — a slow accumulation of percussive detail that earns its funereal title. The closing "Muracetra" with the Dròlo Ensemble opens the frame out into something more communal and sprawling. Throughout, spoken word fragments and muted electronics flicker at the edges, never dominating.&lt;/p&gt;
+
+&lt;p&gt;The album's press materials invite the listener to imagine "entering a pitch black forest and waiting for your eyes to adjust" — and for once, the promotional metaphor is accurate. This is music that demands patience before it reveals its structure. Remondino's prepared drums mimic the snap of dry foliage, produce metallic shimmers, and generate low tones that feel geological in their weight. The 200-copy limited ECO vinyl pressing will likely sell out quickly given the names involved.&lt;/p&gt;
+
+&lt;p&gt;For listeners already following the intersection of percussion, improvisation, and sound art — the world around labels like Editions Mego, Shelter Press, and Senufo Editions — Hìeratico fits naturally into that lineage while bringing something distinctly its own. The focus on darkness and materiality gives it a coherence that many multi-collaborator projects lack.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://ooh-sounds.bandcamp.com/album/nicolas-remondino-h-eratico"&gt;https://ooh-sounds.bandcamp.com/album/nicolas-remondino-h-eratico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://boomkat.com/new-releases"&gt;https://boomkat.com/new-releases&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">54319d0c-4460-550a-9140-3c95e825ff00</guid>
+      <pubDate>Sun, 29 Mar 2026 13:58:10 +0000</pubDate>
+      <category>indie-electronic</category>
+      <link>https://ooh-sounds.bandcamp.com/album/nicolas-remondino-h-eratico</link>
+      <enclosure url="https://f4.bcbits.com/img/a2351113646_10.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>1,100 Producers Were Asked About AI in the Studio — Their Biggest Fear Isn't Losing Their Jobs</title>
+      <description>&lt;p&gt;Sonarworks and Sound on Sound surveyed 1,194 working music creators — producers, engineers, songwriters, mixers, educators — about how AI is actually changing their studios in 2026. The headline finding isn't about job anxiety. It's about something producers care about more than employment: &lt;strong&gt;originality&lt;/strong&gt;. Seventy-seven percent of respondents said their primary concern is that AI will accelerate musical sameness, flooding the market with competent but generic content. Job displacement, by contrast, worried only 42 percent.&lt;/p&gt;
+
+&lt;p&gt;That distinction matters. Producers aren't scared of a robot taking their chair. They're scared of a future where everything sounds fine and nothing sounds like anything. It's a qualitative fear, not an economic one — the worry that music will lose what the survey respondents called "authorship, perspective, and emotional specificity." In other words: the stuff that makes a Pharrell beat sound different from a Metro Boomin beat, or a Jack Antonoff production feel different from a Finneas one.&lt;/p&gt;
+
+&lt;p&gt;The actual adoption numbers are more nuanced than either the AI hype or the moral panic would suggest. One in five producers already uses AI regularly. Almost half have experimented. But the use cases are revealing: 58% use AI for audio restoration and stem separation — essentially cleanup work. Only 21% use it for composition or lyric generation. The gap between those numbers tells the real story. Producers are happy to let AI handle the tedious parts (vocal tuning, drum editing, file management) while keeping creative decisions firmly in human hands.&lt;/p&gt;
+
+&lt;p&gt;Sentiment breaks down roughly as you'd expect: 20% positive, the rest split between neutral and negative. The neutral camp is the interesting one — described in the survey as "watchful and pragmatic." These aren't people boycotting AI tools. They're people using AI for stem separation on Tuesday and worrying about its cultural implications on Wednesday. That tension, more than any clear pro or anti position, defines where most of the industry actually sits.&lt;/p&gt;
+
+&lt;p&gt;Genre matters here, too. Two-thirds of respondents believe EDM and mainstream pop are the genres most amenable to AI generation, with ambient and "functional" music also high on the list. Jazz, blues, and classical sit at the other end — the genres where improvisation, physical touch, and unpredictability are hardest to simulate. This tracks with what we're seeing in practice: AI-generated lo-fi beats and ambient playlists are already ubiquitous on streaming platforms, while nobody's worried about an AI replacing Kamasi Washington.&lt;/p&gt;
+
+&lt;p&gt;The ethics dimension is evolving fast. Producers draw a clear line between AI tools trained on licensed material and those built on scraped datasets. After the controversies of 2024 and early 2025 — when multiple startups were caught training on unlicensed catalogs — the industry has converged on "ethical AI" as a baseline expectation. But the definition remains fuzzy. Is it ethical to train on public domain recordings? On licensed samples that were themselves built from unlicensed influences? The philosophical rabbit hole goes deep, and the survey suggests producers are aware of it even if they don't have answers.&lt;/p&gt;
+
+&lt;p&gt;The most telling finding might be the list of skills producers consider irreplaceable: musicality, critical listening, arrangement, emotional judgment, interpersonal communication, and creative direction. Notice what's not on that list — technical mixing proficiency, sound design from scratch, or any specific DAW skill. Producers are already mentally outsourcing the technical layer to AI while doubling down on the human, relational, and aesthetic dimensions of their work. The future they're describing isn't one where AI replaces producers. It's one where producers become creative directors who happen to have very sophisticated AI assistants. Whether that future preserves the kind of originality they're worried about losing is the question nobody can answer yet.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://www.sonarworks.com/blog/research/future-music-production-human-producer-survey-2026"&gt;https://www.sonarworks.com/blog/research/future-music-production-human-producer-survey-2026&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://celebrityaccess.com/2026/03/03/the-future-of-music-production-is-human-1100-producers-weigh-in-on-ai/"&gt;https://celebrityaccess.com/2026/03/03/the-future-of-music-production-is-human-1100-producers-weigh-in-on-ai/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.soundonsound.com/music-business/ai-music-tech-2026"&gt;https://www.soundonsound.com/music-business/ai-music-tech-2026&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">3d4373e9-1715-571e-87a3-de7b7317e3f8</guid>
+      <pubDate>Sun, 29 Mar 2026 13:58:34 +0000</pubDate>
+      <category>pop-music</category>
+      <link>https://www.sonarworks.com/blog/research/future-music-production-human-producer-survey-2026</link>
+      <enclosure url="https://www.sonarworks.com/blog/research/future-music-production-human-producer-survey-2026" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Gak Sato and Tadahiko Yokogawa Build a Musical Renga on WRWTFWW</title>
+      <description>&lt;p&gt;The concept is almost too neat: two Japanese artists collaborating through alternating musical contributions, modeled on &lt;strong&gt;renga&lt;/strong&gt;, the linked-verse poetry form where each stanza responds to the one before it. But &lt;em&gt;Renga&lt;/em&gt; (WRWTFWW Records, March 27) works precisely because Gak Sato and Tadahiko Yokogawa treat the structure as a genuine compositional constraint rather than a marketing hook. The ten tracks unfold as a conversation between two very different musical personalities, each piece emerging from what came before while opening new paths forward.&lt;/p&gt;
+
+&lt;p&gt;Gak Sato is a multidisciplinary artist based between Italy and Japan whose work spans electronic music, sound art, and visual media. He has released on labels including Staubgold, 12K, and previously on WRWTFWW. Tadahiko Yokogawa is a Tokyo-based musician and producer working across jazz, ambient, and experimental electronics. Their collaboration spans a genuinely improbable range of territory: the track listing moves through pieces titled "Lawrence," "Godzilla Blues," "Takoyakushi," and "Gnade" — the names alone suggest the geographic and aesthetic breadth at play.&lt;/p&gt;
+
+&lt;p&gt;WRWTFWW (the acronym stands for We Release Whatever The Fuck We Want) has built a strong catalog of reissues and new releases that tend to sit at the intersection of Japanese electronic music, library music, and ambient — they're responsible for bringing back key Midori Takada recordings, among other archival work. Renga fits that curatorial identity well: it's filed under "avantgarde, experimental, free jazz" but reportedly spans ambient, breakbeats, electronica, environmental music, techno, cinematic textures, library music, and musique concrete. That list could describe an incoherent mess, but the renga structure — each piece responding to and building on the last — provides the connective tissue.&lt;/p&gt;
+
+&lt;p&gt;The limited edition of 300 vinyl copies, housed in a heavyweight sleeve with artwork by Aoi Huber Kono, sold out almost immediately. A listening session with discussion and mini-performance took place on March 7 at Rittor Base in Tokyo, giving the release a considered, event-based rollout rather than the typical digital drop-and-hope strategy. Kono's artwork — she's known for clean, graphic design work that bridges Japanese and European modernist aesthetics — reinforces the cross-cultural dialogue at the album's core.&lt;/p&gt;
+
+&lt;p&gt;The album sits in an interesting position within the current landscape. There's been a visible resurgence of interest in Japanese electronic and ambient music over the past several years, driven partly by reissue culture (Light in the Attic's Japan Archival Series, WRWTFWW's own Takada reissues) and partly by a new generation of listeners discovering Hiroshi Yoshimura, Yasuaki Shimizu, and Haruomi Hosono through streaming algorithms. Renga is not a nostalgia play — it's a new work by two active artists — but it benefits from that broader cultural moment where listeners are primed for music that moves fluidly between genres without treating eclecticism as an end in itself.&lt;/p&gt;
+
+&lt;p&gt;For anyone already attuned to WRWTFWW's catalog or the broader world of Japanese experimental music, this is an easy recommendation. The harder sell is to listeners outside that niche, but the jazz and breakbeat elements on tracks like "Godzilla Blues" and "Big Boy" offer accessible entry points into what is otherwise a demanding listen. At 300 copies, the vinyl is already a collector's item; the digital release is how most people will encounter it.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://www.deejay.de/Gak_Sato_and_Tadahiko_Yokogawa_Renga_LP_WRWTFWW124_Vinyl__1213496/lang_en"&gt;https://www.deejay.de/Gak_Sato_and_Tadahiko_Yokogawa_Renga_LP_WRWTFWW124_Vinyl__1213496/lang_en&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://gaksato.com/news.html"&gt;https://gaksato.com/news.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.serendeepity.net/product/gak-sato-and-tadahiko-yokogawa-renga/"&gt;https://www.serendeepity.net/product/gak-sato-and-tadahiko-yokogawa-renga/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">01dea714-9f56-5e8c-9eca-48de60854c12</guid>
+      <pubDate>Sun, 29 Mar 2026 13:58:37 +0000</pubDate>
+      <category>indie-electronic</category>
+      <link>https://www.deejay.de/Gak_Sato_and_Tadahiko_Yokogawa_Renga_LP_WRWTFWW124_Vinyl__1213496/lang_en</link>
+      <enclosure url="https://www.deejay.de/images/xl/9/6/1213496.jpg" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
