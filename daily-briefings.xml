@@ -4,7 +4,7 @@
     <title>Wynn's Daily Briefings</title>
     <description>Daily briefings on AI, world news, music, and NYC life</description>
     <link>https://WynnCJF.github.io/cc-deepfeed/daily-briefings.xml</link>
-    <lastBuildDate>Sun, 29 Mar 2026 22:57:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 17:29:07 +0000</lastBuildDate>
     <generator>cc-deepfeed</generator>
     <ns0:link rel="hub" href="https://pubsubhubbub.appspot.com" />
     <ns0:link rel="self" href="https://WynnCJF.github.io/cc-deepfeed/daily-briefings.xml" type="application/rss+xml" />
@@ -657,6 +657,206 @@
       <category>indie-electronic</category>
       <link>https://amadeupsound.bandcamp.com/album/ex-libris-003</link>
       <enclosure url="https://f4.bcbits.com/img/a1052503854_5.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Deezer Starts Selling Its AI Music Detection Tech — and the Numbers Behind It Are Staggering</title>
+      <description>&lt;p&gt;Deezer announced on March 27 that it has licensed its proprietary AI-detection technology to Hungary's Bureau for the Protection of Performers' Rights (EJI), marking the first time the tool has been deployed by a collective management organization outside France. EJI exclusively protects human performances and refuses to pay royalties for AI-generated recordings — but until now, it had no reliable way to tell the difference.&lt;/p&gt;
+
+&lt;p&gt;The deal is significant less for its geographic scope (Hungary is a small market) than for what it reveals about the &lt;strong&gt;scale of AI music flooding streaming platforms&lt;/strong&gt;. Deezer says it now receives roughly 60,000 fully AI-generated tracks per day, representing 39% of all daily uploads to the platform. That number has climbed steadily — when Deezer first launched its detection tool in January 2025, the daily volume was considerably lower. Even more striking: up to 85% of streams on AI-generated content were found to be fraudulent, suggesting that most AI music exists not to be listened to but to game royalty pools.&lt;/p&gt;
+
+&lt;p&gt;The technology itself claims 99.8% accuracy in distinguishing AI-generated music from human-created work. Deezer is making it available through its revamped Deezer for Business unit, which launched mid-March 2026 to consolidate the company's partnership, advertising, and technology licensing arms. The French collecting society Sacem was a previous licensee.&lt;/p&gt;
+
+&lt;p&gt;For working musicians, this matters in a direct, material way. Every fraudulent AI stream that draws from a shared royalty pool is money taken from human artists. EJI Director Pál Tomori framed it bluntly: "Filtering out AI recordings is necessary, but AI training should only proceed with artist consent and compensation." The fact that a performers' rights organization — not a tech company or a label — is the one buying this tool says something about where the urgency is felt most.&lt;/p&gt;
+
+&lt;p&gt;Deezer's approach stands in sharp contrast to Apple's voluntary Transparency Tags system, which we covered on March 29. Apple asks labels and distributors to self-report AI involvement; Deezer scans everything automatically and doesn't wait for anyone to opt in. Neither approach is perfect — voluntary labeling relies on honesty, while automated detection can only catch what it's trained to recognize — but Deezer's willingness to license detection externally suggests it sees this as a business line, not just a PR move. The company reached profitability for the first time in 2025, reporting €8.5 million in net income, and CEO Alexis Lanternier has positioned AI detection as a competitive differentiator: "Over past years, we've built the most advanced AI detection tech in the industry, making it available to the entire ecosystem."&lt;/p&gt;
+
+&lt;p&gt;If 39% of daily uploads to a mid-tier streaming platform are AI-generated, the numbers at Spotify and Apple Music — which Deezer doesn't have visibility into — could be even higher. The question is whether detection technology can scale as fast as generation technology.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://musically.com/2026/03/27/deezer-has-a-customer-for-its-ai-detection-tech-eji-in-hungary/"&gt;https://musically.com/2026/03/27/deezer-has-a-customer-for-its-ai-detection-tech-eji-in-hungary/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.musicbusinessworldwide.com/deezer-licenses-ai-music-detection-technology-to-hungarian-rights-organization-eji/"&gt;https://www.musicbusinessworldwide.com/deezer-licenses-ai-music-detection-technology-to-hungarian-rights-organization-eji/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.digitalmusicnews.com/2026/03/27/deezer-ai-detection-tech-license-eji/"&gt;https://www.digitalmusicnews.com/2026/03/27/deezer-ai-detection-tech-license-eji/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">cff8d188-13ed-5721-a9d1-1ff9bf74b6a4</guid>
+      <pubDate>Mon, 30 Mar 2026 17:19:41 +0000</pubDate>
+      <category>music-tech</category>
+      <link>https://musically.com/2026/03/27/deezer-has-a-customer-for-its-ai-detection-tech-eji-in-hungary/</link>
+      <enclosure url="https://i0.wp.com/musically.com/wp-content/uploads/2025/11/deezer-2.jpg?fit=1200%2C720&amp;ssl=1" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>UMG v Suno Won't See Summary Judgment Until 2027 — and UMG's Own Exec May Have Undermined the Case</title>
+      <description>&lt;p&gt;The most closely watched AI music copyright case just got a lot slower. Summary judgment motions in &lt;em&gt;UMG Recordings v. Suno&lt;/em&gt; have been pushed back to January 8, 2027 — well over two years after the suit was first filed in June 2024. The case, which centers on whether Suno's training on copyrighted music constitutes fair use, now sits sixth in a growing queue of AI copyright cases awaiting similar rulings before federal judges.&lt;/p&gt;
+
+&lt;p&gt;That queue is worth examining. Before UMG v Suno reaches its summary judgment date, the courts will hear &lt;strong&gt;Concord Music v. Anthropic&lt;/strong&gt; (July 15, 2026), Google's generative AI litigation (September 11), OpenAI's consolidated cases (October 16), the Mosaic LLM litigation (October 30), and NVIDIA's training data cases (December 4). The Andersen v. Stability AI case — the first major visual AI copyright suit — follows in February 2027. Each of these rulings could establish precedents that reshape how the Suno case is decided, meaning UMG's attorneys may be fighting on ground that shifts beneath them multiple times before they even present arguments.&lt;/p&gt;
+
+&lt;p&gt;More immediately damaging is a self-inflicted wound. Michael Nash, UMG's Executive Vice President and Chief Digital Officer, told investors on a Q4 2025 earnings call: "We are seeing no indication that AI royalty dilution is a material issue for UMG from a revenue perspective." He went further at a March 10 conference, stating that "the case for AI dilution risk has been massively over-extrapolated from a few anecdotes." He cited data showing that aggregate organic consumption of AI-generated content by actual consumers sits below 0.5%.&lt;/p&gt;
+
+&lt;p&gt;Compare that to what UMG argued in its June 2024 court filing: that its catalogue would be "overrun" by AI-generated works that "substantially dilute the royalty pools" paid to artists. The contradiction is not subtle. Suno's lawyers cited Nash's statements at a March 12 hearing, and Judge Paul Levenson permitted discovery into the remarks and underlying data, rejecting UMG's argument that they were irrelevant to the case.&lt;/p&gt;
+
+&lt;p&gt;This is a development worth watching for anyone who makes music. Following up on our March 29 coverage of the AI copyright legal landscape — where we noted the UK government scrapping its opt-out training plan and Udio settling with both UMG and Warner — the Suno case now looks like it could be the last of the major AI music suits to reach resolution, not the first. Warner's November 2025 settlement with Suno already established a licensing pathway; UMG's insistence on litigating looks increasingly isolated, especially when its own executives are telling Wall Street that the harm they're alleging in court doesn't show up in their revenue.&lt;/p&gt;
+
+&lt;p&gt;The practical implication for artists: don't expect legal clarity from this case anytime soon. The patchwork of licensing deals (Warner-Suno, UMG-Udio) and voluntary frameworks (Apple Transparency Tags, Deezer detection) is likely to remain the de facto governance structure for AI music through all of 2026 and into 2027. Courts will eventually weigh in, but the industry is already building the rules without them.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://chatgptiseatingtheworld.com/2026/03/10/summary-judgment-in-umg-recordings-v-suno-pushed-back-to-jan-8-2027/"&gt;https://chatgptiseatingtheworld.com/2026/03/10/summary-judgment-in-umg-recordings-v-suno-pushed-back-to-jan-8-2027/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://natlawreview.com/article/universal-music-group-may-have-admitted-dilution-theory-copyright-infringement-case"&gt;https://natlawreview.com/article/universal-music-group-may-have-admitted-dilution-theory-copyright-infringement-case&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://progresschamber.org/news/universal-music-group-admits-foundational-legal-claim-in-suno-case-is-baseless/"&gt;https://progresschamber.org/news/universal-music-group-admits-foundational-legal-claim-in-suno-case-is-baseless/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">d428a0d4-7676-544f-9d3a-804a429dfa6e</guid>
+      <pubDate>Mon, 30 Mar 2026 17:20:06 +0000</pubDate>
+      <category>music-tech</category>
+      <link>https://chatgptiseatingtheworld.com/2026/03/10/summary-judgment-in-umg-recordings-v-suno-pushed-back-to-jan-8-2027/</link>
+    </item>
+    <item>
+      <title>Pop Music Became Government Propaganda — And Artists Are Finally Pushing Back</title>
+      <description>&lt;p&gt;In December 2025, the White House X account posted a video montage of ICE agents conducting immigration raids, set to SZA's "Big Boy" — a comedic track she originally performed during a &lt;em&gt;Saturday Night Live&lt;/em&gt; sketch in 2022. The juxtaposition was grotesque by design: a playful, viral pop moment repurposed as the soundtrack to footage of people being detained and deported. SZA's response was immediate and sharp: "White House rage-baiting artists for free promo is PEAK DARK… inhumanity + shock and aw tactics… Evil n Boring." Her longtime manager Terrence "Punch" Henderson was more pointed: "Trying to provoke artist to respond in order to help spread propaganda and political agendas is nasty business. Knock it off."&lt;/p&gt;
+
+&lt;p&gt;The White House's reply was instructive in its cynicism. Rather than defending the use or apologizing, spokeswoman Abigail Jackson simply thanked SZA "for drawing even more attention to the tremendous work America's ICE officers are doing by arresting dangerous criminal illegal aliens from American communities." The cruelty was the point. By provoking an artist into responding, the administration got exactly what it wanted: free amplification of its immigration enforcement messaging through a pop star's massive platform. SZA was not the only target — just weeks earlier, Sabrina Carpenter had slammed the Trump administration for using her hit "Juno" in a similar ICE raid montage. A pattern was forming.&lt;/p&gt;
+
+&lt;p&gt;This represents something genuinely new in the relationship between pop music and state power. Politicians have always tried to co-opt popular culture — campaign rally playlists are a perennial controversy, and artists from Bruce Springsteen to Rihanna have sent cease-and-desist letters over unauthorized use of their songs at political events. But the Trump White House has industrialized the provocation. The playbook: use an artist's music without permission in immigration enforcement content, wait for the inevitable outraged response, then weaponize that response as further propaganda. It's a trap with no clean exit. Stay silent and your music becomes the de facto soundtrack to deportation videos. Speak up and you become a free marketing engine for ICE. Either way, the administration wins.&lt;/p&gt;
+
+&lt;p&gt;In a recent &lt;a href='https://i-d.co/article/sza-i-d-cover-interview-2026/'&gt;i-D cover interview&lt;/a&gt;, SZA connected this episode to her broader anxieties about artistic autonomy in 2026. "I feel like I'm at war because of AI," she said — linking the unauthorized government use of her music to the unauthorized corporate use of artists' work for AI training. She pointed out that this exploitation "is happening disproportionately with Black music," a claim with deep historical resonance, from the uncompensated appropriation of blues and jazz in the early 20th century to the sampling lawsuits of the 1990s. The through line is consistent: Black artists create the culture, and institutions — whether record labels, tech companies, or now the federal government — find ways to extract value without consent or compensation.&lt;/p&gt;
+
+&lt;p&gt;What's striking about the current moment is how it forces pop artists into political positions they didn't seek. Kendrick Lamar's Grammy dominance this year carried political weight whether he wanted it to or not. Bad Bunny's all-Spanish Super Bowl halftime show became a referendum on Latino visibility in American culture. And now SZA finds her music literally conscripted into government propaganda. These aren't artists who set out to make political statements — they're artists whose work is being politicized by external forces, and they're responding with varying degrees of strategy, fury, and exhaustion.&lt;/p&gt;
+
+&lt;p&gt;SZA's lyric on "Ghost in the Machine" now reads like prophecy: "Let's talk about AI, robot got more heart than I / Robot got future, I don't / Robot get sleep but I don't power down." The machines — both literal and bureaucratic — keep running. The question for pop music in 2026 isn't whether artists should be political. It's whether they have any choice in the matter.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://variety.com/2025/music/news/sza-blasts-white-house-for-using-her-snl-song-pro-ice-post-1236605926/"&gt;https://variety.com/2025/music/news/sza-blasts-white-house-for-using-her-snl-song-pro-ice-post-1236605926/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://i-d.co/article/sza-i-d-cover-interview-2026/"&gt;https://i-d.co/article/sza-i-d-cover-interview-2026/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.wionews.com/world/sza-slams-trump-admin-for-rage-baiting-artists-for-free-promo-after-white-house-uses-her-song-big-boy-in-ice-video-watch-1765422624181"&gt;https://www.wionews.com/world/sza-slams-trump-admin-for-rage-baiting-artists-for-free-promo-after-white-house-uses-her-song-big-boy-in-ice-video-watch-1765422624181&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://thehill.com/homenews/administration/5645873-sza-donald-trump-white-house-immigration-video/"&gt;https://thehill.com/homenews/administration/5645873-sza-donald-trump-white-house-immigration-video/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">7919f85a-9cf4-5e6e-a9da-a9b4cc3c8120</guid>
+      <pubDate>Mon, 30 Mar 2026 17:20:28 +0000</pubDate>
+      <category>pop-music</category>
+      <link>https://variety.com/2025/music/news/sza-blasts-white-house-for-using-her-snl-song-pro-ice-post-1236605926/</link>
+    </item>
+    <item>
+      <title>Zora Jones Breaks Five Years of Silence With ANGEL CRISIS, a Sharp-Edged EP on Her Own Terms</title>
+      <description>&lt;p&gt;After half a decade away from solo releases, Zora Jones returned in late February with &lt;strong&gt;ANGEL CRISIS&lt;/strong&gt;, a six-track EP on Bellyfat, the creative platform she runs independently. It's her first proper solo statement since &lt;em&gt;Ten Billion Angels&lt;/em&gt; dropped on Fractal Fantasy in 2020 — the label she co-founded with Sinjin Hawke that became a touchstone for a particular strain of meticulously designed, digitally sculptured bass music. And it sounds like a deliberate reset rather than a continuation.&lt;/p&gt;
+
+&lt;p&gt;The shift is immediately audible. Where &lt;em&gt;Ten Billion Angels&lt;/em&gt; operated in a maximalist, hyperreal register — every frequency polished to a blinding sheen — ANGEL CRISIS pulls the camera closer to something more human. Jones spent part of the creative period living with the Catalan musician Marina Herlop in Barcelona, and the influence shows in unexpected ways: there's analogue piano woven through the production, and Jones's own voice — not just as processed texture but as a genuine lyrical presence — sits far more centrally in the mix than on anything she's released before.&lt;/p&gt;
+
+&lt;p&gt;That said, this is no acoustic turn. "Beef" opens with Jones's grime-inflected delivery over twitchy percussion and sub-bass that wouldn't sound out of place on a Boxed night circa 2015, though the arrangement is more spacious, less interested in overwhelming the listener. "Diorpaint" leans into warm house chords before fracturing them with glitch edits that recall the granular precision of her earlier production work. The title track is the EP's kinetic peak: gasping breaths layer over percussive artillery and wobbling bass that stacks higher and higher, while Jones yells "jump, jump, jump" with a rhythmic aggression that makes it function as a club tool despite its structural unpredictability.&lt;/p&gt;
+
+&lt;p&gt;RA reviewer Katie Hawthorne described the project as "high-drama bass music" that "ushers in a new era" for Jones — framing that feels apt given how far the sonic palette stretches here. "Makeup Bag - Part 1" riffs on an earworm vocal fragment whispering "never enough" over fidgety, tinny beats and sinister laughter, channelling a kind of existential hunger for creative satisfaction. By contrast, "Tokyo Tears" strips away all the armour at the EP's close, with Jones singing gently — "I think I know what you're missing" — over production that prioritises negative space and room tone. Hawthorne noted that the voice sounds "emphatically blunt with vulnerability, rather than anger," and that tension between fragility and fury runs through the entire project.&lt;/p&gt;
+
+&lt;p&gt;The cover artwork reinforces the thematic arc: death's-head moths emerging from a digitally manipulated face, suggesting transformation that requires destruction first. Jones has signalled that a full album is forthcoming with even more vocal focus than what ANGEL CRISIS offers. For an artist who built her reputation on meticulous sound design and constructed club-ready maximalism, that pivot toward unguarded lyricism is the most compelling part of this return. The EP functions as a bridge — ambitious enough to stand alone, pointed enough to make the destination genuinely interesting.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://ra.co/reviews/36338"&gt;https://ra.co/reviews/36338&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.clashmusic.com/news/zora-jones-returns-with-new-ep-angel-crisis/"&gt;https://www.clashmusic.com/news/zora-jones-returns-with-new-ep-angel-crisis/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://zorajones.bandcamp.com/album/angel-crisis"&gt;https://zorajones.bandcamp.com/album/angel-crisis&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">fc130f69-cd06-5800-a0ae-0a9412274b78</guid>
+      <pubDate>Mon, 30 Mar 2026 17:20:31 +0000</pubDate>
+      <category>indie-electronic</category>
+      <link>https://ra.co/reviews/36338</link>
+      <enclosure url="https://www.clashmusic.com/wp-content/uploads/2026/02/Zora-Jones.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>The Domestication of Music Criticism: How Pop Writing Lost Its Nerve</title>
+      <description>&lt;p&gt;Emily Knoeppel published an essay on Gen Admission this month titled &lt;a href='https://www.genadmission.org/articles/the-domestication-of-music-criticism'&gt;"The Domestication of Music Criticism,"&lt;/a&gt; and it's the most clear-eyed diagnosis of what happened to music writing that I've read in years. Her central argument: music criticism hasn't disappeared — it's been house-trained. The medium that once "explored new music with depth and originality now caters to appeasing fans and homogenizing receptions to survive." The critic, she writes, has become "a participant" rather than an independent evaluator. And the cause isn't weak critics or thin-skinned artists — it's a structural collapse in the distance between the people who make music and the people who write about it.&lt;/p&gt;
+
+&lt;p&gt;Knoeppel traces the history with precision. She invokes Greil Marcus's legendary 1970 review of a Bob Dylan album that opened with three words: "What is this shit?" Try publishing that in 2026. The internet didn't just give everyone a megaphone — it eliminated the physical and social separation that allowed critics to evaluate art without worrying about the artist reading it over lunch. When artists, critics, and fans all exist in the same digital room, critical distance becomes nearly impossible to maintain. "When taste is identity, disagreement becomes an attack," Knoeppel writes. The concept of "gatekeeping" — once understood as a necessary function of cultural curation — has been reframed as a moral failure.&lt;/p&gt;
+
+&lt;p&gt;The examples she cites are damning in their familiarity. Halsey's 2020 Twitter meltdown over Pitchfork's 6.5 review of &lt;em&gt;Manic&lt;/em&gt; — a perfectly reasonable score — became a flashpoint for fan armies attacking the publication. Rolling Stone removed its star rating system in 2022, then quietly reinstated it, unable to commit to either conviction or capitulation. Zane Lowe's interview with Katy Perry — a format that should involve genuine engagement — devolved into something closer to a joint press appearance. And then there's the Taylor Swift problem: a five-star review for &lt;em&gt;Showgirl&lt;/em&gt; despite divided critical reception, suggesting that some artists have become simply too powerful to honestly assess.&lt;/p&gt;
+
+&lt;p&gt;This connects directly to the Pitchfork story we covered last run — the publication's shift to a subscription model with reader scores under editor Mano Sundaresan. What Knoeppel describes as the "domestication" of criticism helps explain why Pitchfork's move was met with such negativity. The problem isn't that readers now get to score albums. It's that the reader-score model completes a transformation that was already underway: the critic as facilitator of fan conversation rather than provider of independent judgment. When the publication most associated with sharp, sometimes brutal music evaluation pivots toward aggregating audience sentiment, the domestication is essentially complete.&lt;/p&gt;
+
+&lt;p&gt;But Knoeppel doesn't quite give up hope, and neither should we. She notes that real criticism persists in "diminished, participation-oriented form across social media and grassroots outlets" — Substacks, small music blogs, podcasts where hosts aren't worried about access. The irony is rich: the same internet that killed mainstream critical authority may be quietly nurturing its successor in the margins. The most honest music writing in 2026 tends to come from writers who have nothing to lose — no interview access to protect, no advertising relationships to maintain, no fan armies to placate.&lt;/p&gt;
+
+&lt;p&gt;The deeper question Knoeppel raises is whether this matters beyond music. If critics can no longer do their job because proximity has collapsed the space required for honest assessment, that's not just a music problem — it's a problem for any field where evaluation requires independence. Book reviewing, film criticism, even journalism itself face the same structural pressures. Pop music, being the most fan-driven and socially mediated art form, just got there first. The canary died. The question is whether anyone outside the mine noticed.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://www.genadmission.org/articles/the-domestication-of-music-criticism"&gt;https://www.genadmission.org/articles/the-domestication-of-music-criticism&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">32cdf333-4ed6-57b1-a758-2bfbfebb8ec6</guid>
+      <pubDate>Mon, 30 Mar 2026 17:21:00 +0000</pubDate>
+      <category>pop-music</category>
+      <link>https://www.genadmission.org/articles/the-domestication-of-music-criticism</link>
+      <enclosure url="https://cdn.prod.website-files.com/622e8aff0168a21fe445dae6/69b07deea122ef8345b9745a_Untitled%20design.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Simo Cell and Abdullah Miniawy Channel Digital Fatigue Into Uncanny Bass Music on Dying Is the Internet</title>
+      <description>&lt;p&gt;The French-Egyptian duo of &lt;strong&gt;Simo Cell&lt;/strong&gt; (Gaël Aussel) and &lt;strong&gt;Abdullah Miniawy&lt;/strong&gt; have been circling each other's orbits for years — their 2020 album &lt;em&gt;Kill Me or Negotiate&lt;/em&gt; on Brothers From Different Mothers established a working language somewhere between post-dubstep, North African vocal traditions, and improvised noise. Their second full-length, &lt;em&gt;Dying Is the Internet&lt;/em&gt;, released March 2 on Dekmantel's UFO imprint, takes that vocabulary further and aims it squarely at the cultural wreckage of platform capitalism.&lt;/p&gt;
+
+&lt;p&gt;The album's concept is stated bluntly in its title and track names — "Reels in 360," "Living Emojis," "Pixelated" — but the music avoids the trap of being merely illustrative. Aussel's production draws from deep dubstep's architecture: heavy sub-bass, half-step rhythms, spacious arrangements that let individual sounds breathe and decay. RA reviewer Michael McKinney compared the sonic palette to "a Deep Medi photonegative," which captures something essential — the bass weight is there, but the textures are stranger, more corroded. Miniawy's Auto-Tuned vocals and trumpet passages (the latter recalling Miles Davis's electric period, per McKinney) layer over these foundations in ways that feel both intimate and alien.&lt;/p&gt;
+
+&lt;p&gt;The eight tracks cover a lot of ground across roughly 35 minutes without ever feeling like a genre exercise. "Reels in 360" pairs reverb-drenched trumpet with digitized vocals and pitched-down ad-libs, evoking the disorientation of infinite scroll. "I See the Stadium" (featuring Lord Spikeheart) opens at zero BPM with bass stabs and horror-film atmosphere before East Coast drum breaks suddenly kick in — a structural swerve that keeps the record from settling into any single mode. "Pixelated" stretches Auto-Tuned vocal notes over glitchy trap patterns and choppy stabs, while the closer "Easing the Hearts" finds stuttering drums and fidgeting grooves gradually overtaken by swelling string-like pads. It's the album's most generous moment, suggesting something hopeful might survive the digital rot the previous seven tracks have catalogued.&lt;/p&gt;
+
+&lt;p&gt;Miniawy brings a distinctive biography to the project. He first gained attention as a poet and vocalist during the 2012 Egyptian revolution, and his subsequent work has ranged across experimental music, video game design, and performance art (including a notable set at Berlin's CTM Festival in 2025). Aussel, meanwhile, was the first international artist to release on Bristol's Livity Sound label back in 2015, and continues to run the TemeT imprint from Nantes. Both artists exist at productive angles to the scenes they participate in — close enough to understand the grammar, far enough to disregard its rules.&lt;/p&gt;
+
+&lt;p&gt;Cyclic Defrost called the record "confident and accomplished," and the assessment is fair — but what makes &lt;em&gt;Dying Is the Internet&lt;/em&gt; more than a solid collaborative album is its refusal to let thematic ambition overwhelm the sound design. The tongue-in-cheek takedowns of emoji communication and Instagram culture could easily have produced something preachy or heavy-handed. Instead, the music itself does the critical work: these warped, half-familiar textures — dubstep's bones filtered through distortion and vocal improvisation — embody the digital uncanniness the lyrics describe rather than just narrating it.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://ra.co/reviews/36340"&gt;https://ra.co/reviews/36340&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.cyclicdefrost.com/2026/03/simo-cell-abdullah-miniawy-dying-is-the-internet-dekmantel-ufo/"&gt;https://www.cyclicdefrost.com/2026/03/simo-cell-abdullah-miniawy-dying-is-the-internet-dekmantel-ufo/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://simocell.bandcamp.com/album/dying-is-the-internet"&gt;https://simocell.bandcamp.com/album/dying-is-the-internet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">2764c41d-77ec-5022-9616-69e9448aa5fc</guid>
+      <pubDate>Mon, 30 Mar 2026 17:21:02 +0000</pubDate>
+      <category>indie-electronic</category>
+      <link>https://ra.co/reviews/36340</link>
+      <enclosure url="https://static.ra.co/images/reviews/2026/a1750088023_16-cover.jpg" type="image/jpeg" length="0" />
+    </item>
+    <item>
+      <title>Chappell Roan's Five-Year Plan Is the Most Radical Thing in Pop Right Now</title>
+      <description>&lt;p&gt;Chappell Roan won Best New Artist at the Grammys, headlined Lollapalooza festivals across Latin America, and has arguably the most devoted fanbase of any artist who emerged in the last two years. The music industry's standard playbook says she should be deep into a sophomore album rollout by now — teasers, singles, a summer release date, a fall arena tour. Instead, she's told anyone who'll listen that her second album "doesn't exist yet" and probably won't for "at least five years." In a business that treats momentum as oxygen, this is the closest thing to performance art that pop strategy has produced in 2026.&lt;/p&gt;
+
+&lt;p&gt;The timeline isn't arbitrary. Roan has been consistent about the math: her debut, &lt;em&gt;The Rise and Fall of a Midwest Princess&lt;/em&gt;, took five years to write. She's said bluntly that she doesn't "make good music whenever I force myself to do anything" and that even working in the studio 12 hours a day wouldn't change the pace. Her producer Dan Nigro has confirmed that five tracks exist so far — reportedly including a country song with fiddle, a couple of ballads, and a mid-tempo rock track — but the picture is one of genuine artistic exploration rather than album-cycle urgency. Roan has said the next record will still be pop ("I'm not switching genres"), but the early descriptions suggest something more sonically adventurous than her debut.&lt;/p&gt;
+
+&lt;p&gt;What makes this interesting isn't the timeline itself — plenty of artists take years between records. It's the openness about it, and the context in which it's happening. We are living through the most accelerated content cycle pop music has ever known. TikTok has compressed the attention window to days. Labels want singles every six weeks to feed the algorithm. The dominant business model rewards constant output over artistic development. Against this backdrop, a 25-year-old at the peak of her commercial heat saying "I'll get there when I get there" reads as a genuine act of resistance. Not a marketing stunt dressed up as authenticity, but an artist who watched what happened to peers who rushed their second albums and decided she'd rather risk irrelevance than make something she doesn't believe in.&lt;/p&gt;
+
+&lt;p&gt;The comparison to Lorde is unavoidable. After the massive success of &lt;em&gt;Pure Heroine&lt;/em&gt; in 2013, Lorde waited four years before releasing &lt;em&gt;Melodrama&lt;/em&gt; — and was rewarded with what many consider the best pop album of the 2010s. But Lorde's gap came in a pre-TikTok era when four years between albums, while unusual, wasn't unthinkable. Roan is proposing a five-year gap in an era where four weeks of silence can feel like a career death sentence. She's also doing it without the cushion of a major first-album hit single — "Good Luck, Babe!" and "HOT TO GO!" were viral moments, not chart-toppers in the traditional sense. Her leverage is cultural cachet, not Billboard numbers.&lt;/p&gt;
+
+&lt;p&gt;There's a risk, of course. Fan communities that form around rapid content cycles can lose interest when the feed goes quiet. The "CR2" nickname that fans have already given the nonexistent album suggests an anticipation that could curdle into frustration. And Island Records, however supportive they appear publicly, has shareholders who'd prefer a more conventional release schedule. Five years is a long time for a label to wait on an artist who might be outpaced by the next Chappell Roan.&lt;/p&gt;
+
+&lt;p&gt;But here's the thing: Roan seems to genuinely not care about that math. "The Giver" and "The Subway" — both standalone singles released in 2025 — earned Grammy nominations without an album framework, suggesting that the traditional album cycle may not be the only viable commercial model anymore. If she can sustain cultural presence through one-off releases, festival headlining, and the kind of live-show maximalism that made her famous, the five-year album gap becomes not a risk but a proof of concept. The most interesting question in pop right now might be whether she can pull it off.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://www.rollingstone.com/music/music-news/chappell-roan-next-record-five-years-1235399504/"&gt;https://www.rollingstone.com/music/music-news/chappell-roan-next-record-five-years-1235399504/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://variety.com/2025/music/news/chappell-roan-second-album-doesnt-exist-yet-could-take-five-years-1236477709/"&gt;https://variety.com/2025/music/news/chappell-roan-second-album-doesnt-exist-yet-could-take-five-years-1236477709/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.out.com/gay-music/chappell-roan-album-cr2-facts-details"&gt;https://www.out.com/gay-music/chappell-roan-album-cr2-facts-details&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.billboard.com/music/music-news/chappell-roan-headline-laneway-festival-2026-1236069252/"&gt;https://www.billboard.com/music/music-news/chappell-roan-headline-laneway-festival-2026-1236069252/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">945b63bd-9721-59f9-89ff-b57eb34ace63</guid>
+      <pubDate>Mon, 30 Mar 2026 17:21:33 +0000</pubDate>
+      <category>pop-music</category>
+      <link>https://www.rollingstone.com/music/music-news/chappell-roan-next-record-five-years-1235399504/</link>
+    </item>
+    <item>
+      <title>Bandcamp Bets on Human Curation With New Electronic Radio Show Hosted by Emily Dust</title>
+      <description>&lt;p&gt;Bandcamp quietly expanded its radio programming in late February and March with three new shows — &lt;strong&gt;Electronic Radio&lt;/strong&gt;, Indie Radio, and Gaming Radio — each built around long-form artist interviews and curated selections. For a platform that has spent the last year under Songtradr's ownership trying to define what post-Epic Bandcamp actually looks like, the move reads as a commitment to editorial depth over algorithmic discovery. The electronic show, in particular, deserves attention from anyone invested in underground dance music infrastructure.&lt;/p&gt;
+
+&lt;p&gt;Electronic Radio is hosted by Emily Dust, a DJ and broadcaster whose credentials run deep. She hosts &lt;em&gt;Dances for Buildings&lt;/em&gt;, a podcast dedicated to interviewing DJs from around the world, and has produced BBC documentaries on Berlin's club scene and South Africa's gqom movement. She DJs internationally across the UK, Europe, Africa, and Brazil. The show launched on February 25 and drops new episodes bi-weekly on alternating Wednesdays — a slower cadence than the content-mill approach of most music platforms, which feels deliberate.&lt;/p&gt;
+
+&lt;p&gt;The first episode featured UK producer Nathan Fake discussing his creative process and influences — a solid opening move that signals the show's interest in working artists with substantial catalogues rather than hype-cycle newcomers. The March 11 episode brought in Scratcha DVA (now going by Scratchclart) to talk about &lt;em&gt;Stop Making Edits Vol 1&lt;/em&gt;, and on March 25, DJ Marfox joined to discuss his new release on Príncipe and how a chance encounter on a Lisbon train reshaped his trajectory. Both conversations reportedly go deep on community, creative method, and the economics of running independent operations — exactly the kind of practical, scene-level detail that tends to get flattened in standard press coverage.&lt;/p&gt;
+
+&lt;p&gt;The broader radio expansion includes Indie Radio, hosted by Bandcamp Daily veteran Mariana Timony, who has been with the publication for nearly a decade and now leads their Substack. Her stated focus — artists "operating free of the hype cycle, just delivering great song after great song" — articulates the editorial philosophy more plainly than most mission statements. A quarterly Video Game Music show rounds out the lineup, with Bandcamp editor Zoe Camp interviewing composers about indie game scores.&lt;/p&gt;
+
+&lt;p&gt;The strategic bet here is worth noting. Bandcamp has always distinguished itself from Spotify and Apple Music through direct-to-artist sales and editorial curation by actual human beings — the Bandcamp Daily recommendations, the staff picks, the genre round-ups that regularly surface records with fewer than 500 plays. Adding interview-led radio shows extends that logic into audio format. Rather than competing with algorithm-driven playlist culture, Bandcamp is doubling down on what it already does well: giving space to knowledgeable people who can contextualise music within the scenes and histories that produced it.&lt;/p&gt;
+
+&lt;p&gt;Whether this translates into meaningful discovery for the artists featured remains an open question — Bandcamp's audience is dedicated but relatively small compared to streaming giants. But as a venue for substantive conversation about electronic music at the scene level, Electronic Radio fills a gap that Boiler Room's pivot toward spectacle and RA's scaled-back editorial have left wide open. The first few episodes suggest Dust has both the range and the interview instincts to make it work.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://daily.bandcamp.com/features/bandcamp-radio-adds-electronic-music-and-indie-to-the-lineup"&gt;https://daily.bandcamp.com/features/bandcamp-radio-adds-electronic-music-and-indie-to-the-lineup&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://musically.com/2026/03/27/bandcamp-adds-radio-shows-for-electronic-indie-and-gaming-music/"&gt;https://musically.com/2026/03/27/bandcamp-adds-radio-shows-for-electronic-indie-and-gaming-music/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <guid isPermaLink="false">3c323e43-aba5-5060-9260-122535e968a5</guid>
+      <pubDate>Mon, 30 Mar 2026 17:29:07 +0000</pubDate>
+      <category>indie-electronic</category>
+      <link>https://daily.bandcamp.com/features/bandcamp-radio-adds-electronic-music-and-indie-to-the-lineup</link>
+      <enclosure url="https://f4.bcbits.com/img/0042730062_0" type="image/jpeg" length="0" />
     </item>
   </channel>
 </rss>
